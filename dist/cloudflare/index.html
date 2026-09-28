@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#a9081f" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="description" content="Danh bạ điện thoại thường trực Đảng ủy 168 xã, phường và đặc khu Côn Đảo của Thành phố Hồ Chí Minh." />
+    <link rel="manifest" href="manifest.webmanifest" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Sổ tay điện thoại</title>
+  </head>
+  <body>
+    <div id="app" class="app-shell">
+      <header class="topbar">
+        <div class="brand-mark"><img src="assets/logo-tphcm.png" alt="Biểu trưng Thành phố Hồ Chí Minh" /></div>
+        <div class="brand-copy">
+          <span class="eyebrow">THÀNH PHỐ HỒ CHÍ MINH</span>
+          <h1>Sổ tay điện thoại</h1>
+        </div>
+        <button id="infoButton" class="icon-button top-action" aria-label="Thông tin dữ liệu">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 11v6M12 7.5h.01"/></svg>
+        </button>
+      </header>
+
+      <main>
+        <section id="directoryView" class="view active" aria-label="Danh bạ">
+          <div class="hero-card">
+            <div class="hero-decoration" aria-hidden="true"></div>
+            <div class="hero-content">
+              <span class="hero-kicker">DANH BẠ THƯỜNG TRỰC ĐẢNG ỦY</span>
+              <h2>Tra cứu nhanh, liên hệ ngay</h2>
+              <p>Dữ liệu 168 xã, phường và Đặc khu Côn Đảo</p>
+              <div class="stats" aria-label="Thống kê danh bạ">
+                <div><strong id="unitCount">168</strong><span>Đơn vị</span></div>
+                <div><strong id="contactCount">672</strong><span>Liên hệ</span></div>
+                <div><strong>07/2025</strong><span>Cập nhật</span></div>
+              </div>
+            </div>
+          </div>
+
+          <div class="search-wrap">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg>
+            <input id="searchInput" type="search" autocomplete="off" placeholder="Tìm tên, đơn vị, chức vụ, số điện thoại..." aria-label="Tìm kiếm danh bạ" />
+            <button id="clearSearch" class="clear-search" aria-label="Xóa nội dung tìm kiếm" hidden>×</button>
+          </div>
+
+          <div class="section-heading filter-heading">
+            <div><span class="section-kicker">KHU VỰC</span><h3>Lọc theo đơn vị cũ</h3></div>
+            <button id="filterButton" class="filter-button" aria-expanded="false">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M7 12h10M10 17h4"/></svg>
+              <span id="filterLabel">Tất cả</span>
+            </button>
+          </div>
+          <div id="filterPanel" class="filter-panel" hidden></div>
+
+          <div class="section-heading results-heading">
+            <div><span class="section-kicker">DANH SÁCH</span><h3 id="resultTitle">Tất cả đơn vị</h3></div>
+            <span id="resultCount" class="count-pill">168</span>
+          </div>
+          <div id="directoryList" class="directory-list" aria-live="polite"></div>
+          <div id="emptyState" class="empty-state" hidden>
+            <div class="empty-icon">⌕</div><h3>Không tìm thấy kết quả</h3><p>Thử từ khóa ngắn hơn hoặc chọn khu vực khác.</p>
+            <button id="resetButton" class="primary-button">Xóa bộ lọc</button>
+          </div>
+        </section>
+
+        <section id="favoritesView" class="view" aria-label="Liên hệ đã lưu">
+          <div class="plain-header"><span class="section-kicker">CÁ NHÂN</span><h2>Liên hệ đã lưu</h2><p>Các liên hệ quan trọng được lưu trên thiết bị này.</p></div>
+          <div id="favoritesList" class="contact-list"></div>
+          <div id="favoritesEmpty" class="empty-state"><div class="empty-icon">♡</div><h3>Chưa có liên hệ đã lưu</h3><p>Chạm biểu tượng trái tim cạnh một liên hệ để thêm vào đây.</p></div>
+        </section>
+
+        <section id="aboutView" class="view" aria-label="Thông tin ứng dụng">
+          <div class="plain-header"><span class="section-kicker">THÔNG TIN</span><h2>Về sổ tay</h2><p>Thông tin nguồn và hướng dẫn sử dụng.</p></div>
+          <article class="about-card source-card">
+            <div class="about-icon">i</div>
+            <div><h3>Nguồn dữ liệu</h3><p>Danh bạ điện thoại Thường trực Đảng ủy 168 xã, phường và Đặc khu Côn Đảo của Thành phố Hồ Chí Minh.</p><span class="date-badge">Ngày 08 tháng 07 năm 2025</span></div>
+          </article>
+          <article class="about-card warning-card">
+            <div class="about-icon">!</div>
+            <div><h3>Tài liệu lưu hành nội bộ</h3><p>Thông tin chỉ phục vụ công tác. Không chia sẻ, sao chép hoặc sử dụng ngoài phạm vi được phép.</p></div>
+          </article>
+          <article class="about-card"><div class="about-icon">⌕</div><div><h3>Tìm kiếm thông minh</h3><p>Có thể tìm theo tên không dấu, đơn vị, chức vụ, địa bàn cũ hoặc số điện thoại.</p></div></article>
+          <article class="about-card"><div class="about-icon">☎</div><div><h3>Liên hệ nhanh</h3><p>Chạm vào số điện thoại để gọi. Chạm giữ hoặc dùng nút sao chép để lưu số vào bộ nhớ tạm.</p></div></article>
+        </section>
+      </main>
+
+      <nav class="tabbar" aria-label="Điều hướng chính">
+        <button class="tab active" data-view="directoryView"><svg viewBox="0 0 24 24"><path d="M4 6.5A2.5 2.5 0 0 1 6.5 4H20v16H6.5A2.5 2.5 0 0 1 4 17.5v-11Z"/><path d="M4 17.5A2.5 2.5 0 0 1 6.5 15H20M9 8h6M9 11h5"/></svg><span>Danh bạ</span></button>
+        <button class="tab" data-view="favoritesView"><svg viewBox="0 0 24 24"><path d="m12 20-1.45-1.32C5.4 14 2 10.9 2 7.1 2 4 4.4 2 7.5 2c1.75 0 3.45.8 4.5 2.05A6 6 0 0 1 16.5 2C19.6 2 22 4 22 7.1c0 3.8-3.4 6.9-8.55 11.58L12 20Z"/></svg><span>Đã lưu</span><b id="favoriteBadge" hidden>0</b></button>
+        <button class="tab" data-view="aboutView"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 11v6M12 7.5h.01"/></svg><span>Thông tin</span></button>
+      </nav>
+    </div>
+
+    <div id="detailSheet" class="sheet-backdrop" hidden>
+      <section class="bottom-sheet" role="dialog" aria-modal="true" aria-labelledby="sheetTitle">
+        <button id="closeSheet" class="sheet-close" aria-label="Đóng">×</button>
+        <div class="sheet-handle"></div>
+        <div class="sheet-unit-mark"><img src="assets/logo-tphcm.png" alt="Biểu trưng Thành phố Hồ Chí Minh" /></div>
+        <span id="sheetFormer" class="section-kicker"></span>
+        <h2 id="sheetTitle"></h2>
+        <p id="sheetMeta" class="sheet-meta"></p>
+        <div id="sheetContacts" class="contact-list"></div>
+      </section>
+    </div>
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
+    <script src="app.js" type="module"></script>
+  </body>
+</html>

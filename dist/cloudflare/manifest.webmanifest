@@ -1,0 +1,10 @@
+{
+  "name": "Sổ tay điện thoại TP.HCM",
+  "short_name": "Sổ tay",
+  "description": "Danh bạ thường trực Đảng ủy 168 xã, phường và đặc khu Côn Đảo.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f3f3",
+  "theme_color": "#a9081f",
+  "lang": "vi"
+}

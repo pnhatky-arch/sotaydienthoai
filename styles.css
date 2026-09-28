@@ -1,0 +1,134 @@
+:root {
+  color-scheme: light;
+  --red-950: #6d0615;
+  --red-900: #8f071c;
+  --red-800: #ad0b24;
+  --red-700: #c51531;
+  --red-100: #fde9ec;
+  --red-50: #fff6f7;
+  --gold: #f2c15f;
+  --ink: #201a1b;
+  --muted: #71686a;
+  --line: #eee7e8;
+  --paper: #fff;
+  --canvas: #f6f3f3;
+  --shadow: 0 10px 30px rgba(83, 14, 27, .09);
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI", sans-serif;
+}
+* { box-sizing: border-box; }
+html { background: var(--canvas); }
+body { margin: 0; min-width: 320px; color: var(--ink); background: var(--canvas); -webkit-font-smoothing: antialiased; }
+button, input { font: inherit; }
+button { cursor: pointer; }
+.app-shell { width: min(100%, 760px); min-height: 100dvh; margin: 0 auto; background: #fbf9f9; position: relative; padding-bottom: calc(86px + env(safe-area-inset-bottom)); }
+.topbar { height: calc(74px + env(safe-area-inset-top)); padding: calc(14px + env(safe-area-inset-top)) 20px 12px; display: flex; align-items: center; gap: 12px; background-color: var(--red-900); background-image: linear-gradient(100deg, rgba(82,0,14,.94), rgba(153,5,30,.76)), url("assets/trong-dong-background.png"); background-position: center, 70% center; background-size: cover; color: #fff; position: sticky; top: 0; z-index: 20; box-shadow: 0 4px 18px rgba(75,0,12,.2); }
+.brand-mark { width: 45px; height: 45px; flex: 0 0 45px; border-radius: 14px; background: #fff; display: grid; place-items: center; box-shadow: inset 0 0 0 1px rgba(255,255,255,.75), 0 5px 13px rgba(73,0,12,.22); overflow: hidden; }
+.brand-mark img { width: 39px; height: 39px; object-fit: contain; }
+.brand-copy { min-width: 0; flex: 1; }
+.eyebrow, .section-kicker, .hero-kicker { display: block; font-size: 10px; font-weight: 800; letter-spacing: .105em; }
+.brand-copy .eyebrow { color: #f5d992; margin-bottom: 3px; }
+.brand-copy h1 { font-size: 20px; line-height: 1.05; margin: 0; letter-spacing: -.02em; }
+.icon-button { border: 0; background: transparent; padding: 0; }
+.top-action { width: 40px; height: 40px; border-radius: 50%; color: #fff; background: rgba(255,255,255,.12); display: grid; place-items: center; }
+.top-action svg, .search-wrap svg, .filter-button svg, .tab svg { width: 22px; height: 22px; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
+main { padding: 18px 16px 12px; }
+.view { display: none; animation: fade .2s ease; }
+.view.active { display: block; }
+@keyframes fade { from { opacity: .25; transform: translateY(3px); } }
+.hero-card { position: relative; overflow: hidden; min-height: 222px; padding: 23px 22px 20px; border-radius: 26px; color: white; background-color: #98071f; background-image: linear-gradient(90deg, rgba(82,0,14,.97) 0%, rgba(119,2,23,.88) 43%, rgba(153,5,29,.32) 100%), url("assets/trong-dong-background.png"); background-position: center, center; background-size: cover; box-shadow: 0 16px 34px rgba(141,8,29,.23); }
+.hero-decoration { position: absolute; right: -54px; top: -62px; width: 210px; height: 210px; border: 1px solid rgba(255,220,143,.18); border-radius: 50%; box-shadow: 0 0 0 26px rgba(255,255,255,.025), 0 0 0 54px rgba(255,255,255,.018); }
+.hero-content { position: relative; z-index: 1; }
+.hero-kicker { color: #f9d98d; margin-bottom: 10px; }
+.hero-card h2 { max-width: 340px; margin: 0; font-size: clamp(25px, 7vw, 32px); line-height: 1.12; letter-spacing: -.035em; }
+.hero-card p { margin: 9px 0 18px; font-size: 14px; color: rgba(255,255,255,.78); }
+.stats { display: grid; grid-template-columns: 1fr 1fr 1.2fr; gap: 8px; }
+.stats div { min-width: 0; border: 1px solid rgba(255,255,255,.15); background: rgba(255,255,255,.1); border-radius: 14px; padding: 10px 11px; backdrop-filter: blur(8px); }
+.stats strong, .stats span { display: block; }
+.stats strong { font-size: 17px; color: #ffdf93; white-space: nowrap; }
+.stats span { margin-top: 2px; font-size: 10px; color: rgba(255,255,255,.72); }
+.search-wrap { margin: 16px 0 20px; height: 54px; display: flex; align-items: center; gap: 10px; padding: 0 15px; background: var(--paper); border: 1px solid #eadfe1; border-radius: 17px; box-shadow: 0 7px 24px rgba(61,24,31,.06); color: var(--red-800); }
+.search-wrap:focus-within { border-color: rgba(173,11,36,.45); box-shadow: 0 0 0 4px rgba(173,11,36,.07); }
+.search-wrap input { flex: 1; min-width: 0; border: 0; outline: 0; font-size: 15px; color: var(--ink); background: transparent; }
+.search-wrap input::placeholder { color: #a0989a; }
+.clear-search { border: 0; width: 25px; height: 25px; border-radius: 50%; background: #eee8e9; color: #6f6668; font-size: 19px; line-height: 1; }
+.section-heading { display: flex; align-items: end; justify-content: space-between; gap: 14px; margin: 0 2px 12px; }
+.section-kicker { color: var(--red-700); margin-bottom: 3px; }
+.section-heading h3 { margin: 0; font-size: 19px; letter-spacing: -.025em; }
+.filter-heading { align-items: center; }
+.filter-button { height: 37px; max-width: 55%; display: flex; align-items: center; gap: 6px; border: 1px solid #e7dcde; border-radius: 12px; padding: 0 10px; color: var(--red-800); background: #fff; font-size: 12px; font-weight: 700; }
+.filter-button svg { width: 17px; }
+.filter-button span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.filter-panel { display: flex; gap: 8px; overflow-x: auto; padding: 3px 2px 14px; scrollbar-width: none; }
+.filter-panel::-webkit-scrollbar { display: none; }
+.filter-chip { position: relative; isolation: isolate; overflow: hidden; flex: 0 0 auto; min-height: 36px; border: 1px solid rgba(247,213,117,.32); background: linear-gradient(105deg, #710015, #aa0a2a); color: rgba(255,255,255,.9); border-radius: 999px; padding: 9px 14px; font-size: 12px; font-weight: 700; text-shadow: 0 1px 2px rgba(66,0,11,.72); box-shadow: 0 3px 10px rgba(91,0,15,.1); }
+.filter-chip::before { content: ""; position: absolute; z-index: -1; inset: 0; background-image: linear-gradient(90deg, rgba(91,0,15,.72), rgba(153,5,29,.58)), url("assets/trong-dong-background.png"); background-repeat: no-repeat; background-position: center, 72% 48%; background-size: cover, 240px auto; opacity: .24; }
+.filter-chip.active { color: #f9da86; border-color: #f4ce73; box-shadow: 0 0 0 2px rgba(244,206,115,.2), 0 5px 14px rgba(91,0,15,.18); }
+.filter-chip.active::before { opacity: .38; }
+.results-heading { margin-top: 20px; }
+.count-pill { color: var(--red-800); background: var(--red-100); border-radius: 999px; padding: 6px 10px; font-size: 12px; font-weight: 800; }
+.directory-list { display: grid; gap: 11px; }
+.unit-card { position: relative; display: grid; grid-template-columns: 46px 1fr 34px; align-items: center; gap: 13px; width: 100%; border: 1px solid var(--line); padding: 14px; border-radius: 18px; background: var(--paper); text-align: left; color: inherit; box-shadow: 0 4px 16px rgba(55,26,31,.035); transition: transform .16s, border-color .16s; }
+.unit-card:active { transform: scale(.985); }
+.unit-card:hover { border-color: #ddbfc4; }
+.unit-avatar { width: 46px; height: 46px; display: grid; place-items: center; border-radius: 15px; background: linear-gradient(145deg, #fff0f2, #f8dfe3); color: var(--red-800); font-weight: 900; font-size: 13px; }
+.unit-copy { min-width: 0; }
+.unit-copy h4 { margin: 0 0 5px; font-size: 16px; letter-spacing: -.015em; }
+.unit-copy p { margin: 0; color: var(--muted); font-size: 12px; }
+.unit-copy .match-line { margin-top: 5px; color: var(--red-800); overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }
+.chevron { color: #b2a9ab; font-size: 26px; font-weight: 300; text-align: center; }
+.empty-state { text-align: center; padding: 46px 24px; color: var(--muted); }
+.empty-state .empty-icon { width: 62px; height: 62px; margin: 0 auto 15px; display: grid; place-items: center; border-radius: 22px; background: var(--red-100); color: var(--red-800); font-size: 29px; }
+.empty-state h3 { color: var(--ink); margin: 0 0 7px; }
+.empty-state p { margin: 0 auto; max-width: 330px; font-size: 14px; line-height: 1.5; }
+.primary-button { margin-top: 18px; border: 0; padding: 11px 18px; border-radius: 12px; background: var(--red-800); color: white; font-weight: 700; }
+.plain-header { padding: 12px 4px 17px; }
+.plain-header h2 { margin: 2px 0 6px; font-size: 28px; letter-spacing: -.035em; }
+.plain-header p { margin: 0; color: var(--muted); font-size: 14px; }
+.contact-list { display: grid; gap: 10px; }
+.contact-card { border: 1px solid var(--line); border-radius: 18px; background: #fff; padding: 15px; display: grid; grid-template-columns: 42px 1fr auto; gap: 12px; align-items: center; }
+.contact-avatar { width: 42px; height: 42px; display: grid; place-items: center; border-radius: 50%; background: #f9e6e9; color: var(--red-800); font-size: 13px; font-weight: 800; }
+.contact-main { min-width: 0; }
+.contact-main h4 { margin: 0; font-size: 15px; }
+.contact-main .role { margin: 3px 0 6px; color: var(--muted); font-size: 11px; line-height: 1.3; }
+.phone-link { color: var(--red-800); font-size: 14px; font-weight: 800; text-decoration: none; }
+.phone-missing { color: #9b9294; font-style: italic; font-size: 12px; }
+.contact-actions { display: flex; align-items: center; gap: 5px; }
+.mini-button { width: 36px; height: 36px; border-radius: 50%; display: grid; place-items: center; border: 0; background: #f8f3f4; color: var(--red-800); }
+.mini-button svg { width: 18px; height: 18px; fill: none; stroke: currentColor; stroke-width: 1.8; }
+.mini-button.favorite.active svg { fill: var(--red-700); }
+.favorite-unit { display: block; margin-top: 4px; color: #8e8587; font-size: 11px; }
+.about-card { display: flex; gap: 14px; padding: 17px; margin-bottom: 12px; border: 1px solid var(--line); background: #fff; border-radius: 19px; }
+.about-icon { flex: 0 0 42px; height: 42px; border-radius: 14px; display: grid; place-items: center; background: var(--red-100); color: var(--red-800); font-weight: 900; }
+.about-card h3 { margin: 1px 0 6px; font-size: 16px; }
+.about-card p { margin: 0; color: var(--muted); font-size: 13px; line-height: 1.55; }
+.warning-card { background: #fff9ed; border-color: #f0dfba; }
+.warning-card .about-icon { background: #fceac1; color: #8a5d00; }
+.date-badge { display: inline-block; margin-top: 10px; padding: 6px 9px; border-radius: 8px; background: #f7f1f2; color: var(--red-800); font-size: 11px; font-weight: 800; }
+.tabbar { position: fixed; isolation: isolate; z-index: 25; left: 50%; bottom: 0; transform: translateX(-50%); width: min(100%, 760px); height: calc(70px + env(safe-area-inset-bottom)); padding: 7px 18px env(safe-area-inset-bottom); display: grid; grid-template-columns: repeat(3,1fr); background-color: var(--red-900); background-image: linear-gradient(100deg, rgba(82,0,14,.995), rgba(153,5,30,.965)), url("assets/trong-dong-background.png"); background-position: center, 70% center; background-size: cover; border-top: 1px solid rgba(247,213,117,.3); box-shadow: 0 -7px 24px rgba(91,0,15,.2); overflow: hidden; }
+.tab { position: relative; z-index: 1; border: 0; background: transparent; color: rgba(255,255,255,.76); text-shadow: 0 1px 3px rgba(70,0,12,.8); display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 3px; font-size: 10px; font-weight: 700; }
+.tab svg { width: 23px; height: 23px; }
+.tab.active { color: #f7d575; }
+.tab.active::before { content: ""; position: absolute; top: -7px; width: 36px; height: 3px; border-radius: 0 0 4px 4px; background: #f7d575; box-shadow: 0 2px 8px rgba(247,213,117,.35); }
+.tab b { position: absolute; top: 3px; margin-left: 24px; min-width: 17px; height: 17px; border-radius: 9px; background: #f7d575; color: var(--red-950); border: 1px solid rgba(255,255,255,.55); font-size: 9px; line-height: 15px; }
+.sheet-backdrop { position: fixed; z-index: 50; inset: 0; background: rgba(30,7,12,.48); display: flex; align-items: end; justify-content: center; padding-top: 50px; backdrop-filter: blur(3px); }
+.sheet-backdrop[hidden] { display: none; }
+.bottom-sheet { width: min(100%, 760px); max-height: 91dvh; overflow-y: auto; border-radius: 28px 28px 0 0; background: #fbf9f9; padding: 12px 16px calc(28px + env(safe-area-inset-bottom)); box-shadow: 0 -10px 50px rgba(49,8,16,.22); animation: slide .25s ease-out; }
+@keyframes slide { from { transform: translateY(40px); opacity: .3; } }
+.sheet-handle { width: 42px; height: 5px; border-radius: 4px; background: #d7ced0; margin: 0 auto 16px; }
+.sheet-close { float: right; width: 32px; height: 32px; border-radius: 50%; border: 0; background: #eee7e8; color: #675d60; font-size: 22px; }
+.sheet-unit-mark { width: 58px; height: 58px; margin-bottom: 12px; display: grid; place-items: center; border-radius: 18px; background: #fff; border: 1px solid #eadfe1; box-shadow: 0 5px 15px rgba(88,12,26,.08); }
+.sheet-unit-mark img { width: 50px; height: 50px; object-fit: contain; }
+.bottom-sheet h2 { margin: 2px 0 5px; font-size: 25px; letter-spacing: -.03em; }
+.sheet-meta { color: var(--muted); margin: 0 0 18px; font-size: 13px; }
+.toast { position: fixed; z-index: 80; left: 50%; bottom: calc(86px + env(safe-area-inset-bottom)); transform: translate(-50%, 20px); pointer-events: none; opacity: 0; color: #fff; background: #2a2224; padding: 11px 16px; border-radius: 12px; font-size: 13px; box-shadow: var(--shadow); transition: .22s; white-space: nowrap; }
+.toast.show { opacity: 1; transform: translate(-50%, 0); }
+body.sheet-open { overflow: hidden; }
+@media (min-width: 761px) {
+  body { padding: 24px 0; }
+  .app-shell { border-radius: 28px; min-height: calc(100dvh - 48px); overflow: hidden; box-shadow: 0 20px 70px rgba(53,22,28,.14); }
+  .topbar { position: relative; }
+  .tabbar { bottom: 24px; border-radius: 0 0 28px 28px; }
+  .bottom-sheet { margin-bottom: 24px; border-radius: 28px; }
+  .sheet-backdrop { align-items: center; padding: 24px; }
+}
+@media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation-duration: .01ms !important; transition-duration: .01ms !important; } }

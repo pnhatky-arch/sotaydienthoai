@@ -1,0 +1,6705 @@
+[
+  {
+    "id": 1,
+    "unit": "Phường Sài Gòn",
+    "formerUnit": "Q1",
+    "contacts": [
+      {
+        "name": "Nguyễn Tấn Phát",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0913696273",
+        "phoneNumbers": [
+          "0913696273"
+        ]
+      },
+      {
+        "name": "Lê Thị Lan Chi",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0937551368",
+        "phoneNumbers": [
+          "0937551368"
+        ]
+      },
+      {
+        "name": "Vũ Nguyễn Quang Vinh",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0903993377",
+        "phoneNumbers": [
+          "0903993377"
+        ]
+      },
+      {
+        "name": "Lê Tiến Sĩ",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0903711414",
+        "phoneNumbers": [
+          "0903711414"
+        ]
+      }
+    ],
+    "sourcePage": 2
+  },
+  {
+    "id": 2,
+    "unit": "Phường Bến Thành",
+    "formerUnit": "Q1",
+    "contacts": [
+      {
+        "name": "Hoàng Thị Tố Nga",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0918204193",
+        "phoneNumbers": [
+          "0918204193"
+        ]
+      },
+      {
+        "name": "Nguyễn Kim Đức",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0909511533",
+        "phoneNumbers": [
+          "0909511533"
+        ]
+      },
+      {
+        "name": "Mai Thị Hồng Hoa",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0903377677",
+        "phoneNumbers": [
+          "0903377677"
+        ]
+      },
+      {
+        "name": "Trần Đỗ Nam Long",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0901613368",
+        "phoneNumbers": [
+          "0901613368"
+        ]
+      }
+    ],
+    "sourcePage": 2
+  },
+  {
+    "id": 3,
+    "unit": "Phường Cầu Ông Lãnh",
+    "formerUnit": "Q1",
+    "contacts": [
+      {
+        "name": "Nguyễn Duy An",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0983616466",
+        "phoneNumbers": [
+          "0983616466"
+        ]
+      },
+      {
+        "name": "Nguyễn Trung Châu Tuyên",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0903751588",
+        "phoneNumbers": [
+          "0903751588"
+        ]
+      },
+      {
+        "name": "Tuyên Trương Thị Minh Dung",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0918793399",
+        "phoneNumbers": [
+          "0918793399"
+        ]
+      },
+      {
+        "name": "Bùi Minh Tiến",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0908348998",
+        "phoneNumbers": [
+          "0908348998"
+        ]
+      }
+    ],
+    "sourcePage": 3
+  },
+  {
+    "id": 4,
+    "unit": "Phường Tân Định",
+    "formerUnit": "Q1",
+    "contacts": [
+      {
+        "name": "Lê Đức Thanh",
+        "role": "Đảng Bí thư - CT HĐND",
+        "phone": "0908841217",
+        "phoneNumbers": [
+          "0908841217"
+        ]
+      },
+      {
+        "name": "Dương Thị Hồng Gấm",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0983678939",
+        "phoneNumbers": [
+          "0983678939"
+        ]
+      },
+      {
+        "name": "Nguyễn Hải Quân",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0903772797",
+        "phoneNumbers": [
+          "0903772797"
+        ]
+      },
+      {
+        "name": "Phạm Xuân Khánh",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0948951496",
+        "phoneNumbers": [
+          "0948951496"
+        ]
+      }
+    ],
+    "sourcePage": 3
+  },
+  {
+    "id": 5,
+    "unit": "Phường Bàn Cờ",
+    "formerUnit": "Q3",
+    "contacts": [
+      {
+        "name": "Nguyễn Thành Nam",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0983080803",
+        "phoneNumbers": [
+          "0983080803"
+        ]
+      },
+      {
+        "name": "Trần Thị Hường",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0909121235",
+        "phoneNumbers": [
+          "0909121235"
+        ]
+      },
+      {
+        "name": "Huỳnh Gia Giang",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0933139881",
+        "phoneNumbers": [
+          "0933139881"
+        ]
+      },
+      {
+        "name": "Lê Minh Đạt",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0908844108",
+        "phoneNumbers": [
+          "0908844108"
+        ]
+      }
+    ],
+    "sourcePage": 4
+  },
+  {
+    "id": 6,
+    "unit": "Phường Xuân Hòa",
+    "formerUnit": "Q3",
+    "contacts": [
+      {
+        "name": "Nguyễn Thanh Xuân",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0979434381",
+        "phoneNumbers": [
+          "0979434381"
+        ]
+      },
+      {
+        "name": "Nguyễn Đình Phát",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0908101149",
+        "phoneNumbers": [
+          "0908101149"
+        ]
+      },
+      {
+        "name": "Nguyễn Hùng Hậu",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0909230466",
+        "phoneNumbers": [
+          "0909230466"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Thu Huyền",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0989593345",
+        "phoneNumbers": [
+          "0989593345"
+        ]
+      }
+    ],
+    "sourcePage": 4
+  },
+  {
+    "id": 7,
+    "unit": "Phường Nhiêu Lộc",
+    "formerUnit": "Q3",
+    "contacts": [
+      {
+        "name": "Võ Văn Đức",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0908113706",
+        "phoneNumbers": [
+          "0908113706"
+        ]
+      },
+      {
+        "name": "Vũ Tố Quyên",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0908466799",
+        "phoneNumbers": [
+          "0908466799"
+        ]
+      },
+      {
+        "name": "Ngô Thị Hiền",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0906616013",
+        "phoneNumbers": [
+          "0906616013"
+        ]
+      },
+      {
+        "name": "Bùi Anh Tuấn",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0909189775",
+        "phoneNumbers": [
+          "0909189775"
+        ]
+      }
+    ],
+    "sourcePage": 5
+  },
+  {
+    "id": 8,
+    "unit": "Phường Xóm Chiếu",
+    "formerUnit": "Q4",
+    "contacts": [
+      {
+        "name": "Nguyễn Quốc Thái",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0903522703",
+        "phoneNumbers": [
+          "0903522703"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Hồng Diễm",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0909709940",
+        "phoneNumbers": [
+          "0909709940"
+        ]
+      },
+      {
+        "name": "Trần Thị Thanh Thảo",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0918649568",
+        "phoneNumbers": [
+          "0918649568"
+        ]
+      },
+      {
+        "name": "Nguyễn Hoàng Xuân Vinh",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0913936934",
+        "phoneNumbers": [
+          "0913936934"
+        ]
+      }
+    ],
+    "sourcePage": 5
+  },
+  {
+    "id": 9,
+    "unit": "Phường Vĩnh Hội",
+    "formerUnit": "Q4",
+    "contacts": [
+      {
+        "name": "Lê Văn Chiến",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0918199194",
+        "phoneNumbers": [
+          "0918199194"
+        ]
+      },
+      {
+        "name": "Đỗ Thị Trúc Mai",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0981455955",
+        "phoneNumbers": [
+          "0981455955"
+        ]
+      },
+      {
+        "name": "Nguyễn Thùy Trinh",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0767668613",
+        "phoneNumbers": [
+          "0767668613"
+        ]
+      },
+      {
+        "name": "Bùi Thúy Vương",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0968817654",
+        "phoneNumbers": [
+          "0968817654"
+        ]
+      }
+    ],
+    "sourcePage": 6
+  },
+  {
+    "id": 10,
+    "unit": "Phường Khánh Hội",
+    "formerUnit": "Q4",
+    "contacts": [
+      {
+        "name": "Lý Tấn Hòa",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0904741010",
+        "phoneNumbers": [
+          "0904741010"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Thu",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0916888703",
+        "phoneNumbers": [
+          "0916888703"
+        ]
+      },
+      {
+        "name": "Võ Thanh Dũng",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0908104952",
+        "phoneNumbers": [
+          "0908104952"
+        ]
+      },
+      {
+        "name": "Cao Nhật Tựu",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0909333728",
+        "phoneNumbers": [
+          "0909333728"
+        ]
+      }
+    ],
+    "sourcePage": 6
+  },
+  {
+    "id": 11,
+    "unit": "Phường An Đông",
+    "formerUnit": "Q5",
+    "contacts": [
+      {
+        "name": "Trương Minh Kiều",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0901427239",
+        "phoneNumbers": [
+          "0901427239"
+        ]
+      },
+      {
+        "name": "Phạm Nam Vĩnh An",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0937806996",
+        "phoneNumbers": [
+          "0937806996"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Minh Phượng",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0908228012",
+        "phoneNumbers": [
+          "0908228012"
+        ]
+      },
+      {
+        "name": "Phượng Phạm Thị Ánh Nguyệt",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0918621421",
+        "phoneNumbers": [
+          "0918621421"
+        ]
+      }
+    ],
+    "sourcePage": 7
+  },
+  {
+    "id": 12,
+    "unit": "Phường Chợ Quán",
+    "formerUnit": "Q5",
+    "contacts": [
+      {
+        "name": "Cao Sơn Yên",
+        "role": "Đảng Bí thư - CT HĐND",
+        "phone": "0918011204",
+        "phoneNumbers": [
+          "0918011204"
+        ]
+      },
+      {
+        "name": "Hồ Thị Trúc Giang",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0913943223",
+        "phoneNumbers": [
+          "0913943223"
+        ]
+      },
+      {
+        "name": "Nguyễn Võ Xuân Kỳ",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0903926631",
+        "phoneNumbers": [
+          "0903926631"
+        ]
+      },
+      {
+        "name": "Vũ Thị Lương",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0918737397",
+        "phoneNumbers": [
+          "0918737397"
+        ]
+      }
+    ],
+    "sourcePage": 7
+  },
+  {
+    "id": 13,
+    "unit": "Phường Chợ Lớn",
+    "formerUnit": "Q5",
+    "contacts": [
+      {
+        "name": "Huỳnh Ngọc Nữ Phương Hồng",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0938117272",
+        "phoneNumbers": [
+          "0938117272"
+        ]
+      },
+      {
+        "name": "Hồng Đặng Ngọc Quế Hương",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0903389337",
+        "phoneNumbers": [
+          "0903389337"
+        ]
+      },
+      {
+        "name": "Nguyễn Xuân Trung",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0909801779",
+        "phoneNumbers": [
+          "0909801779"
+        ]
+      },
+      {
+        "name": "Nguyễn Gia Long",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0937888369",
+        "phoneNumbers": [
+          "0937888369"
+        ]
+      }
+    ],
+    "sourcePage": 8
+  },
+  {
+    "id": 14,
+    "unit": "Phường Bình Phú",
+    "formerUnit": "Q6",
+    "contacts": [
+      {
+        "name": "Phạm Hồng Minh",
+        "role": "Đảng Bí thư - CT HĐND",
+        "phone": "0983168227",
+        "phoneNumbers": [
+          "0983168227"
+        ]
+      },
+      {
+        "name": "Nguyễn Trường Thanh",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0918188985",
+        "phoneNumbers": [
+          "0918188985"
+        ]
+      },
+      {
+        "name": "Nguyễn Huy Thắng",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0916353638",
+        "phoneNumbers": [
+          "0916353638"
+        ]
+      },
+      {
+        "name": "Lưu Trầm Dạ Thảo",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0908297895",
+        "phoneNumbers": [
+          "0908297895"
+        ]
+      }
+    ],
+    "sourcePage": 8
+  },
+  {
+    "id": 15,
+    "unit": "Phường Bình Tiên",
+    "formerUnit": "Q6",
+    "contacts": [
+      {
+        "name": "Lê Kim Hiếu",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0913600007",
+        "phoneNumbers": [
+          "0913600007"
+        ]
+      },
+      {
+        "name": "Nguyễn Hữu Vĩnh",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0908319166",
+        "phoneNumbers": [
+          "0908319166"
+        ]
+      },
+      {
+        "name": "Vương Thanh Liễu",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0908423704",
+        "phoneNumbers": [
+          "0908423704"
+        ]
+      },
+      {
+        "name": "Dương Quang Trí",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0962124646",
+        "phoneNumbers": [
+          "0962124646"
+        ]
+      }
+    ],
+    "sourcePage": 9
+  },
+  {
+    "id": 16,
+    "unit": "Phường Bình Tây",
+    "formerUnit": "Q6",
+    "contacts": [
+      {
+        "name": "Lê Thị Thanh Thảo",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0903655999",
+        "phoneNumbers": [
+          "0903655999"
+        ]
+      },
+      {
+        "name": "Đỗ Quốc Tuấn",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0918979266",
+        "phoneNumbers": [
+          "0918979266"
+        ]
+      },
+      {
+        "name": "Nguyễn Quốc Dương",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0918567930",
+        "phoneNumbers": [
+          "0918567930"
+        ]
+      },
+      {
+        "name": "Vũ Quang",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0909140780",
+        "phoneNumbers": [
+          "0909140780"
+        ]
+      }
+    ],
+    "sourcePage": 9
+  },
+  {
+    "id": 17,
+    "unit": "Phường Phú Lâm",
+    "formerUnit": "Q6",
+    "contacts": [
+      {
+        "name": "Lê Thanh Bình",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0983209647",
+        "phoneNumbers": [
+          "0983209647"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Thanh Trang",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0918767598",
+        "phoneNumbers": [
+          "0918767598"
+        ]
+      },
+      {
+        "name": "Đinh Huỳnh Trung",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0909882113",
+        "phoneNumbers": [
+          "0909882113"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Nhàn",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0915999951",
+        "phoneNumbers": [
+          "0915999951"
+        ]
+      }
+    ],
+    "sourcePage": 10
+  },
+  {
+    "id": 18,
+    "unit": "Phường Tân Hưng",
+    "formerUnit": "Q7",
+    "contacts": [
+      {
+        "name": "Hoàng Minh Tuấn Anh",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0981777377",
+        "phoneNumbers": [
+          "0981777377"
+        ]
+      },
+      {
+        "name": "Nguyễn Văn Tuyền",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0909677097",
+        "phoneNumbers": [
+          "0909677097"
+        ]
+      },
+      {
+        "name": "Nguyễn Đức Trí",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0982552090",
+        "phoneNumbers": [
+          "0982552090"
+        ]
+      },
+      {
+        "name": "Hoàng Hải Đăng",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0979739399",
+        "phoneNumbers": [
+          "0979739399"
+        ]
+      }
+    ],
+    "sourcePage": 10
+  },
+  {
+    "id": 19,
+    "unit": "Phường Tân Mỹ",
+    "formerUnit": "Q7",
+    "contacts": [
+      {
+        "name": "Trần Chí Dũng",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0933110975",
+        "phoneNumbers": [
+          "0933110975"
+        ]
+      },
+      {
+        "name": "Nguyễn Dũng Hùng",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0907792379",
+        "phoneNumbers": [
+          "0907792379"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Bé Ngoan",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0939057009",
+        "phoneNumbers": [
+          "0939057009"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Hồng Loan",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0907956507",
+        "phoneNumbers": [
+          "0907956507"
+        ]
+      }
+    ],
+    "sourcePage": 11
+  },
+  {
+    "id": 20,
+    "unit": "Phường Phú Thuận",
+    "formerUnit": "Q7",
+    "contacts": [
+      {
+        "name": "Châu Xuân Đại Thắng",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0908101212",
+        "phoneNumbers": [
+          "0908101212"
+        ]
+      },
+      {
+        "name": "Nguyễn Đăng Thoại",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0903818689",
+        "phoneNumbers": [
+          "0903818689"
+        ]
+      },
+      {
+        "name": "Lê Lợi",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0911690999",
+        "phoneNumbers": [
+          "0911690999"
+        ]
+      },
+      {
+        "name": "Châu Thị Ngọc Hà",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0907575676",
+        "phoneNumbers": [
+          "0907575676"
+        ]
+      }
+    ],
+    "sourcePage": 11
+  },
+  {
+    "id": 21,
+    "unit": "Phường Tân Thuận",
+    "formerUnit": "Q7",
+    "contacts": [
+      {
+        "name": "Hàng Thị Thu Nga",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0968888168",
+        "phoneNumbers": [
+          "0968888168"
+        ]
+      },
+      {
+        "name": "Nguyễn Văn An",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0919777749",
+        "phoneNumbers": [
+          "0919777749"
+        ]
+      },
+      {
+        "name": "Phạm Hồng Lộc",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0903656668",
+        "phoneNumbers": [
+          "0903656668"
+        ]
+      },
+      {
+        "name": "Trần Thị Kim Quy",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0978306060",
+        "phoneNumbers": [
+          "0978306060"
+        ]
+      }
+    ],
+    "sourcePage": 12
+  },
+  {
+    "id": 22,
+    "unit": "Phường Chánh Hưng",
+    "formerUnit": "Q8",
+    "contacts": [
+      {
+        "name": "Trần Thanh Tùng",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0908602387",
+        "phoneNumbers": [
+          "0908602387"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Ngọc Hà",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0917199052",
+        "phoneNumbers": [
+          "0917199052"
+        ]
+      },
+      {
+        "name": "Phạm Quang Tú",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0903020069",
+        "phoneNumbers": [
+          "0903020069"
+        ]
+      },
+      {
+        "name": "Nguyễn Quang Huy",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0932736168",
+        "phoneNumbers": [
+          "0932736168"
+        ]
+      }
+    ],
+    "sourcePage": 12
+  },
+  {
+    "id": 23,
+    "unit": "Phường Bình Đông",
+    "formerUnit": "Q8",
+    "contacts": [
+      {
+        "name": "Võ Thành Khả",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0978877888",
+        "phoneNumbers": [
+          "0978877888"
+        ]
+      },
+      {
+        "name": "Huỳnh Mỹ Ngọc",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0903616189",
+        "phoneNumbers": [
+          "0903616189"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Thu Hoa",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0903320766",
+        "phoneNumbers": [
+          "0903320766"
+        ]
+      },
+      {
+        "name": "Ngô Quang Liêm",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0936227600 / 0938818054",
+        "phoneNumbers": [
+          "0936227600",
+          "0938818054"
+        ]
+      }
+    ],
+    "sourcePage": 13
+  },
+  {
+    "id": 24,
+    "unit": "Phường Phú Định",
+    "formerUnit": "Q8",
+    "contacts": [
+      {
+        "name": "Phạm Ngọc Muôn",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0935578557",
+        "phoneNumbers": [
+          "0935578557"
+        ]
+      },
+      {
+        "name": "Trần Thanh Hà",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0983506904",
+        "phoneNumbers": [
+          "0983506904"
+        ]
+      },
+      {
+        "name": "Bùi Trung Trực",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0986554855",
+        "phoneNumbers": [
+          "0986554855"
+        ]
+      },
+      {
+        "name": "Nguyễn Nguyên Khôi",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0918846803",
+        "phoneNumbers": [
+          "0918846803"
+        ]
+      }
+    ],
+    "sourcePage": 13
+  },
+  {
+    "id": 25,
+    "unit": "Phường Diên Hồng",
+    "formerUnit": "Q10",
+    "contacts": [
+      {
+        "name": "Lê Văn Minh",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0913909606",
+        "phoneNumbers": [
+          "0913909606"
+        ]
+      },
+      {
+        "name": "Nguyễn Huy Chiến",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0903947493",
+        "phoneNumbers": [
+          "0903947493"
+        ]
+      },
+      {
+        "name": "Nguyễn Trường Sơn",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0938639488",
+        "phoneNumbers": [
+          "0938639488"
+        ]
+      },
+      {
+        "name": "Thái Cao Sơn",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0975393639",
+        "phoneNumbers": [
+          "0975393639"
+        ]
+      }
+    ],
+    "sourcePage": 14
+  },
+  {
+    "id": 26,
+    "unit": "Phường Hòa Hưng",
+    "formerUnit": "Q10",
+    "contacts": [
+      {
+        "name": "Nguyễn Thị Thu Hường",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0983168585",
+        "phoneNumbers": [
+          "0983168585"
+        ]
+      },
+      {
+        "name": "Lương Vũ Ngữ",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0908272919",
+        "phoneNumbers": [
+          "0908272919"
+        ]
+      },
+      {
+        "name": "Lê Thị Ngọc Hiền",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0939101075",
+        "phoneNumbers": [
+          "0939101075"
+        ]
+      },
+      {
+        "name": "Nguyễn Ngọc Bảo Quyên",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0909570745",
+        "phoneNumbers": [
+          "0909570745"
+        ]
+      }
+    ],
+    "sourcePage": 14
+  },
+  {
+    "id": 27,
+    "unit": "Phường Vườn Lài",
+    "formerUnit": "Q10",
+    "contacts": [
+      {
+        "name": "Lâm Hùng Tấn",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0909633968",
+        "phoneNumbers": [
+          "0909633968"
+        ]
+      },
+      {
+        "name": "Nguyễn Phúc Hiệp",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0937100076",
+        "phoneNumbers": [
+          "0937100076"
+        ]
+      },
+      {
+        "name": "Huỳnh Văn Tâm",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0903885808",
+        "phoneNumbers": [
+          "0903885808"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Thu Hương",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0909263701",
+        "phoneNumbers": [
+          "0909263701"
+        ]
+      }
+    ],
+    "sourcePage": 15
+  },
+  {
+    "id": 28,
+    "unit": "Phường Minh Phụng",
+    "formerUnit": "Q11",
+    "contacts": [
+      {
+        "name": "Nguyễn Trần Bình",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0908300848",
+        "phoneNumbers": [
+          "0908300848"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Mai Trang",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0908591000",
+        "phoneNumbers": [
+          "0908591000"
+        ]
+      },
+      {
+        "name": "Nguyễn Phi Long",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0902682636",
+        "phoneNumbers": [
+          "0902682636"
+        ]
+      },
+      {
+        "name": "Nguyễn Văn Trí",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0903885463",
+        "phoneNumbers": [
+          "0903885463"
+        ]
+      }
+    ],
+    "sourcePage": 15
+  },
+  {
+    "id": 29,
+    "unit": "Phường Bình Thới",
+    "formerUnit": "Q11",
+    "contacts": [
+      {
+        "name": "Trần Hải Yến",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0908116211",
+        "phoneNumbers": [
+          "0908116211"
+        ]
+      },
+      {
+        "name": "Đỗ Thanh Bình",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0918193707",
+        "phoneNumbers": [
+          "0918193707"
+        ]
+      },
+      {
+        "name": "Bùi Thị Ngọc Hà",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0908175619",
+        "phoneNumbers": [
+          "0908175619"
+        ]
+      },
+      {
+        "name": "Phan Thành Long",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0916161676",
+        "phoneNumbers": [
+          "0916161676"
+        ]
+      }
+    ],
+    "sourcePage": 16
+  },
+  {
+    "id": 30,
+    "unit": "Phường Phú Thọ",
+    "formerUnit": "Q11",
+    "contacts": [
+      {
+        "name": "Trương Quốc Lâm",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0903683766",
+        "phoneNumbers": [
+          "0903683766"
+        ]
+      },
+      {
+        "name": "Liêu Thị Liên",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "090622445",
+        "phoneNumbers": [
+          "090622445"
+        ]
+      },
+      {
+        "name": "Đinh Chí Thịnh",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0982809839",
+        "phoneNumbers": [
+          "0982809839"
+        ]
+      },
+      {
+        "name": "Ngô Thị Ngọc Trâm",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0906835390",
+        "phoneNumbers": [
+          "0906835390"
+        ]
+      }
+    ],
+    "sourcePage": 16
+  },
+  {
+    "id": 31,
+    "unit": "Phường Hòa Bình",
+    "formerUnit": "Q11",
+    "contacts": [
+      {
+        "name": "Huỳnh Kim Tuấn",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0918158785",
+        "phoneNumbers": [
+          "0918158785"
+        ]
+      },
+      {
+        "name": "Trần Thị Bích Trâm",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0909665909",
+        "phoneNumbers": [
+          "0909665909"
+        ]
+      },
+      {
+        "name": "Cao Hoàng Khương",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0909166779",
+        "phoneNumbers": [
+          "0909166779"
+        ]
+      },
+      {
+        "name": "Võ Quốc Bảo",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0938060280",
+        "phoneNumbers": [
+          "0938060280"
+        ]
+      }
+    ],
+    "sourcePage": 17
+  },
+  {
+    "id": 32,
+    "unit": "Phường Đông Hưng Thuận",
+    "formerUnit": "Q12",
+    "contacts": [
+      {
+        "name": "Trần Thị Huyền Thanh",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0903644102",
+        "phoneNumbers": [
+          "0903644102"
+        ]
+      },
+      {
+        "name": "Huỳnh Tấn Việt",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0908150231",
+        "phoneNumbers": [
+          "0908150231"
+        ]
+      },
+      {
+        "name": "Võ Thị Chính",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0938102006",
+        "phoneNumbers": [
+          "0938102006"
+        ]
+      },
+      {
+        "name": "Võ Kim Ngọc",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0903680342",
+        "phoneNumbers": [
+          "0903680342"
+        ]
+      }
+    ],
+    "sourcePage": 17
+  },
+  {
+    "id": 33,
+    "unit": "Phường Trung Mỹ Tây",
+    "formerUnit": "Q12",
+    "contacts": [
+      {
+        "name": "Nguyễn Thị Ngọc Duyên",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0902433670",
+        "phoneNumbers": [
+          "0902433670"
+        ]
+      },
+      {
+        "name": "Lê Văn Cường",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0982239029",
+        "phoneNumbers": [
+          "0982239029"
+        ]
+      },
+      {
+        "name": "Hồ Minh Hoàng",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0931402449",
+        "phoneNumbers": [
+          "0931402449"
+        ]
+      },
+      {
+        "name": "Huỳnh Thị Tuyết Trinh",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0963272777",
+        "phoneNumbers": [
+          "0963272777"
+        ]
+      }
+    ],
+    "sourcePage": 18
+  },
+  {
+    "id": 34,
+    "unit": "Phường Tân Thới Hiệp",
+    "formerUnit": "Q12",
+    "contacts": [
+      {
+        "name": "Nguyễn Văn Đức",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0918275171",
+        "phoneNumbers": [
+          "0918275171"
+        ]
+      },
+      {
+        "name": "Nguyễn Tấn Lực",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0918880449",
+        "phoneNumbers": [
+          "0918880449"
+        ]
+      },
+      {
+        "name": "Nguyễn Hữu Hiệp",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0913615758",
+        "phoneNumbers": [
+          "0913615758"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Quế Nhung",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0933738973",
+        "phoneNumbers": [
+          "0933738973"
+        ]
+      }
+    ],
+    "sourcePage": 18
+  },
+  {
+    "id": 35,
+    "unit": "Phường Thới An",
+    "formerUnit": "Q12",
+    "contacts": [
+      {
+        "name": "Lê Tấn Tài",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0903641243",
+        "phoneNumbers": [
+          "0903641243"
+        ]
+      },
+      {
+        "name": "Đặng Thị Kiều Nhi",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0919183624",
+        "phoneNumbers": [
+          "0919183624"
+        ]
+      },
+      {
+        "name": "Nguyễn Đức Hiệp",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0908321310",
+        "phoneNumbers": [
+          "0908321310"
+        ]
+      },
+      {
+        "name": "Phan Văn Nam",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0908246835",
+        "phoneNumbers": [
+          "0908246835"
+        ]
+      }
+    ],
+    "sourcePage": 19
+  },
+  {
+    "id": 36,
+    "unit": "Phường An Phú Đông",
+    "formerUnit": "Q12",
+    "contacts": [
+      {
+        "name": "Nguyễn Minh Chánh",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0984916162",
+        "phoneNumbers": [
+          "0984916162"
+        ]
+      },
+      {
+        "name": "Hồ Thị Thủy",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0936786494",
+        "phoneNumbers": [
+          "0936786494"
+        ]
+      },
+      {
+        "name": "Bùi Thị Lam Hồng",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0909050475",
+        "phoneNumbers": [
+          "0909050475"
+        ]
+      },
+      {
+        "name": "Hồ Thị Hiền",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0971828779",
+        "phoneNumbers": [
+          "0971828779"
+        ]
+      }
+    ],
+    "sourcePage": 19
+  },
+  {
+    "id": 37,
+    "unit": "Phường Tân Sơn Hòa",
+    "formerUnit": "Q. Tân Bình",
+    "contacts": [
+      {
+        "name": "Trương Lê Mỹ Ngọc",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0908296622",
+        "phoneNumbers": [
+          "0908296622"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Tuyết Lệ Sương",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0904306960",
+        "phoneNumbers": [
+          "0904306960"
+        ]
+      },
+      {
+        "name": "Sương Trần Minh Vũ",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0908542513",
+        "phoneNumbers": [
+          "0908542513"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Nguyệt Thủy",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0932164162",
+        "phoneNumbers": [
+          "0932164162"
+        ]
+      }
+    ],
+    "sourcePage": 20
+  },
+  {
+    "id": 38,
+    "unit": "Phường Tân Sơn Nhất",
+    "formerUnit": "Q. Tân Bình",
+    "contacts": [
+      {
+        "name": "Lê Hoàng Hà",
+        "role": "Đảng Bí thư - CT HĐND",
+        "phone": "0933986988",
+        "phoneNumbers": [
+          "0933986988"
+        ]
+      },
+      {
+        "name": "Trần Đức Phương",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0903699657",
+        "phoneNumbers": [
+          "0903699657"
+        ]
+      },
+      {
+        "name": "Đoàn Văn Đủ",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0908487776",
+        "phoneNumbers": [
+          "0908487776"
+        ]
+      },
+      {
+        "name": "Bùi Thị Hằng",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0983755748",
+        "phoneNumbers": [
+          "0983755748"
+        ]
+      }
+    ],
+    "sourcePage": 20
+  },
+  {
+    "id": 39,
+    "unit": "Phường Tân Hòa",
+    "formerUnit": "Q. Tân Bình",
+    "contacts": [
+      {
+        "name": "Phan Kiều Thanh Hương",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0983334553",
+        "phoneNumbers": [
+          "0983334553"
+        ]
+      },
+      {
+        "name": "Phan Lê Huy Hoàng",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0909358687",
+        "phoneNumbers": [
+          "0909358687"
+        ]
+      },
+      {
+        "name": "Lê Thị Thu Sương",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0908283430",
+        "phoneNumbers": [
+          "0908283430"
+        ]
+      },
+      {
+        "name": "Lê Thị Phương Thảo",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0886782068",
+        "phoneNumbers": [
+          "0886782068"
+        ]
+      }
+    ],
+    "sourcePage": 21
+  },
+  {
+    "id": 40,
+    "unit": "Phường Bảy Hiền",
+    "formerUnit": "Q. Tân Bình",
+    "contacts": [
+      {
+        "name": "Nguyễn Bá Thành",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0903885272",
+        "phoneNumbers": [
+          "0903885272"
+        ]
+      },
+      {
+        "name": "Tôn Nữ Hồng Châu",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0938904389",
+        "phoneNumbers": [
+          "0938904389"
+        ]
+      },
+      {
+        "name": "Đỗ Thị Ngọc Lan",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0906797271",
+        "phoneNumbers": [
+          "0906797271"
+        ]
+      },
+      {
+        "name": "Bùi Thị Mai Quyên",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0938745666",
+        "phoneNumbers": [
+          "0938745666"
+        ]
+      }
+    ],
+    "sourcePage": 21
+  },
+  {
+    "id": 41,
+    "unit": "Phường Tân Bình",
+    "formerUnit": "Q. Tân Bình",
+    "contacts": [
+      {
+        "name": "Nguyễn Hoàng Long",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0903687015",
+        "phoneNumbers": [
+          "0903687015"
+        ]
+      },
+      {
+        "name": "Trần Sinh Hùng",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0989071142",
+        "phoneNumbers": [
+          "0989071142"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Phượng",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0948755141",
+        "phoneNumbers": [
+          "0948755141"
+        ]
+      },
+      {
+        "name": "Nguyễn Lê Hoàng Thân",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0903784318",
+        "phoneNumbers": [
+          "0903784318"
+        ]
+      }
+    ],
+    "sourcePage": 22
+  },
+  {
+    "id": 42,
+    "unit": "Phường Tân Sơn",
+    "formerUnit": "Q. Tân Bình",
+    "contacts": [
+      {
+        "name": "Nguyễn Xuân Tiến",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0983643494",
+        "phoneNumbers": [
+          "0983643494"
+        ]
+      },
+      {
+        "name": "Đặng Vũ Dũng",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0913843377",
+        "phoneNumbers": [
+          "0913843377"
+        ]
+      },
+      {
+        "name": "Trần Quốc Tuấn",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0903607263",
+        "phoneNumbers": [
+          "0903607263"
+        ]
+      },
+      {
+        "name": "Trần Trung Hiếu",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0918166287",
+        "phoneNumbers": [
+          "0918166287"
+        ]
+      }
+    ],
+    "sourcePage": 22
+  },
+  {
+    "id": 43,
+    "unit": "Phường Tây Thạnh",
+    "formerUnit": "Q. Tân Phú",
+    "contacts": [
+      {
+        "name": "Đào Công Chánh",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0903691858",
+        "phoneNumbers": [
+          "0903691858"
+        ]
+      },
+      {
+        "name": "Huỳnh Thị Mỹ Nhân",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0918795754",
+        "phoneNumbers": [
+          "0918795754"
+        ]
+      },
+      {
+        "name": "Nghiêm Văn Út",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0918062244",
+        "phoneNumbers": [
+          "0918062244"
+        ]
+      },
+      {
+        "name": "Nguyễn Văn Tiệp",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0902272774",
+        "phoneNumbers": [
+          "0902272774"
+        ]
+      }
+    ],
+    "sourcePage": 23
+  },
+  {
+    "id": 44,
+    "unit": "Phường Tân Sơn Nhì",
+    "formerUnit": "Q. Tân Phú",
+    "contacts": [
+      {
+        "name": "Nguyễn Trần Phú",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0902993569",
+        "phoneNumbers": [
+          "0902993569"
+        ]
+      },
+      {
+        "name": "Ngô Thúy Ngọc Thịnh",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0939404023",
+        "phoneNumbers": [
+          "0939404023"
+        ]
+      },
+      {
+        "name": "Nguyễn Quốc Bình",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0903881551",
+        "phoneNumbers": [
+          "0903881551"
+        ]
+      },
+      {
+        "name": "Lê Thị Thu Sương",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0902154664",
+        "phoneNumbers": [
+          "0902154664"
+        ]
+      }
+    ],
+    "sourcePage": 23
+  },
+  {
+    "id": 45,
+    "unit": "Phường Phú Thọ Hòa",
+    "formerUnit": "Q. Tân Phú",
+    "contacts": [
+      {
+        "name": "Phạm Hưng Quốc Bảo",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0772666000",
+        "phoneNumbers": [
+          "0772666000"
+        ]
+      },
+      {
+        "name": "Nguyễn Trần Tú",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0918494008",
+        "phoneNumbers": [
+          "0918494008"
+        ]
+      },
+      {
+        "name": "Nguyễn Công Chánh",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0903908034",
+        "phoneNumbers": [
+          "0903908034"
+        ]
+      },
+      {
+        "name": "Bùi Thị Quế Trân",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0977345704",
+        "phoneNumbers": [
+          "0977345704"
+        ]
+      }
+    ],
+    "sourcePage": 24
+  },
+  {
+    "id": 46,
+    "unit": "Phường Phú Thạnh",
+    "formerUnit": "Q. Tân Phú",
+    "contacts": [
+      {
+        "name": "Võ Công Thành",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0908210237",
+        "phoneNumbers": [
+          "0908210237"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Chiên",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0918845216",
+        "phoneNumbers": [
+          "0918845216"
+        ]
+      },
+      {
+        "name": "Phan Sĩ Đạt",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0909579068",
+        "phoneNumbers": [
+          "0909579068"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Thu Hà",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0932610414",
+        "phoneNumbers": [
+          "0932610414"
+        ]
+      }
+    ],
+    "sourcePage": 24
+  },
+  {
+    "id": 47,
+    "unit": "Phường Tân Phú",
+    "formerUnit": "Q. Tân Phú",
+    "contacts": [
+      {
+        "name": "Lê Thị Kim Hồng",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0989233938",
+        "phoneNumbers": [
+          "0989233938"
+        ]
+      },
+      {
+        "name": "Trần Thị Hồng Cúc",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0908568682",
+        "phoneNumbers": [
+          "0908568682"
+        ]
+      },
+      {
+        "name": "Võ Trương Bình",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0918482037",
+        "phoneNumbers": [
+          "0918482037"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Quỳnh Như",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0909737704",
+        "phoneNumbers": [
+          "0909737704"
+        ]
+      }
+    ],
+    "sourcePage": 25
+  },
+  {
+    "id": 48,
+    "unit": "Phường Bình Tân",
+    "formerUnit": "Q. Bình Tân",
+    "contacts": [
+      {
+        "name": "Phạn Thị Ngọc Diệu",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0916993077",
+        "phoneNumbers": [
+          "0916993077"
+        ]
+      },
+      {
+        "name": "Nguyễn Quang Hưng",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0907625303",
+        "phoneNumbers": [
+          "0907625303"
+        ]
+      },
+      {
+        "name": "Nguyễn Văn Sử",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0908555567",
+        "phoneNumbers": [
+          "0908555567"
+        ]
+      },
+      {
+        "name": "Đinh Thị Lụa",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0979771522",
+        "phoneNumbers": [
+          "0979771522"
+        ]
+      }
+    ],
+    "sourcePage": 25
+  },
+  {
+    "id": 49,
+    "unit": "Phường Bình Hưng Hòa",
+    "formerUnit": "Q. Bình Tân",
+    "contacts": [
+      {
+        "name": "Nguyễn Việt Quế Sơn",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0908229345",
+        "phoneNumbers": [
+          "0908229345"
+        ]
+      },
+      {
+        "name": "Đỗ Thị Thu Cúc",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0908419083",
+        "phoneNumbers": [
+          "0908419083"
+        ]
+      },
+      {
+        "name": "Nguyễn Anh Cường",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0903715979",
+        "phoneNumbers": [
+          "0903715979"
+        ]
+      },
+      {
+        "name": "Đỗ Phan Như Nguyệt",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0908359566",
+        "phoneNumbers": [
+          "0908359566"
+        ]
+      }
+    ],
+    "sourcePage": 26
+  },
+  {
+    "id": 50,
+    "unit": "Phường Bình Trị Đông",
+    "formerUnit": "Q. Bình Tân",
+    "contacts": [
+      {
+        "name": "Trần Xuân Điền",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0919097788",
+        "phoneNumbers": [
+          "0919097788"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Bé Hai",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0903647906",
+        "phoneNumbers": [
+          "0903647906"
+        ]
+      },
+      {
+        "name": "Bùi Thanh Hoài",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0907308353",
+        "phoneNumbers": [
+          "0907308353"
+        ]
+      },
+      {
+        "name": "Phan Văn Hai",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0909592795",
+        "phoneNumbers": [
+          "0909592795"
+        ]
+      }
+    ],
+    "sourcePage": 26
+  },
+  {
+    "id": 51,
+    "unit": "Phường An Lạc",
+    "formerUnit": "Q. Bình Tân",
+    "contacts": [
+      {
+        "name": "Lê Trương Hải Hiếu",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0908368888",
+        "phoneNumbers": [
+          "0908368888"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Kim Hương",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0979037779",
+        "phoneNumbers": [
+          "0979037779"
+        ]
+      },
+      {
+        "name": "Nguyễn Quốc Khánh",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0938051071",
+        "phoneNumbers": [
+          "0938051071"
+        ]
+      },
+      {
+        "name": "Lê Sa Lin",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0973573423",
+        "phoneNumbers": [
+          "0973573423"
+        ]
+      }
+    ],
+    "sourcePage": 27
+  },
+  {
+    "id": 52,
+    "unit": "Phường Tân Tạo",
+    "formerUnit": "Q. Bình Tân",
+    "contacts": [
+      {
+        "name": "Nguyễn Trung Anh",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0903393455",
+        "phoneNumbers": [
+          "0903393455"
+        ]
+      },
+      {
+        "name": "Lê Thị Ngọc Dung",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0933730012",
+        "phoneNumbers": [
+          "0933730012"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Hoàng Oanh",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0908467838",
+        "phoneNumbers": [
+          "0908467838"
+        ]
+      },
+      {
+        "name": "Trần Thị Thu Hương",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0938280987",
+        "phoneNumbers": [
+          "0938280987"
+        ]
+      }
+    ],
+    "sourcePage": 27
+  },
+  {
+    "id": 53,
+    "unit": "Phường Bình Lợi Trung",
+    "formerUnit": "Q. Bình Thạnh",
+    "contacts": [
+      {
+        "name": "Thái Thị Hồng Nga",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0908169817",
+        "phoneNumbers": [
+          "0908169817"
+        ]
+      },
+      {
+        "name": "Võ Hoàng Phú",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0913124114",
+        "phoneNumbers": [
+          "0913124114"
+        ]
+      },
+      {
+        "name": "Lê Hoàng Linh Phương",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0908208661",
+        "phoneNumbers": [
+          "0908208661"
+        ]
+      },
+      {
+        "name": "Lương Nguyễn Quốc Hải",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0989064964",
+        "phoneNumbers": [
+          "0989064964"
+        ]
+      }
+    ],
+    "sourcePage": 28
+  },
+  {
+    "id": 54,
+    "unit": "Phường Bình Quới",
+    "formerUnit": "Q. Bình Thạnh",
+    "contacts": [
+      {
+        "name": "Đỗ Thị Minh Quân",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0908107572",
+        "phoneNumbers": [
+          "0908107572"
+        ]
+      },
+      {
+        "name": "Vũ Nam Trung",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0903850233",
+        "phoneNumbers": [
+          "0903850233"
+        ]
+      },
+      {
+        "name": "Đặng Minh Nguyên",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0903658226",
+        "phoneNumbers": [
+          "0903658226"
+        ]
+      },
+      {
+        "name": "Lâm Thị Thu Lan",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0907563546",
+        "phoneNumbers": [
+          "0907563546"
+        ]
+      }
+    ],
+    "sourcePage": 28
+  },
+  {
+    "id": 55,
+    "unit": "Phường Bình Thạnh",
+    "formerUnit": "Q. Bình Thạnh",
+    "contacts": [
+      {
+        "name": "Vũ Ngọc Tuất",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0903837292",
+        "phoneNumbers": [
+          "0903837292"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Mỹ Linh",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0913199929",
+        "phoneNumbers": [
+          "0913199929"
+        ]
+      },
+      {
+        "name": "Phan Quang Khánh",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0908145462",
+        "phoneNumbers": [
+          "0908145462"
+        ]
+      },
+      {
+        "name": "Trần Công Tùng",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0988881522",
+        "phoneNumbers": [
+          "0988881522"
+        ]
+      }
+    ],
+    "sourcePage": 29
+  },
+  {
+    "id": 56,
+    "unit": "Phường Gia Định",
+    "formerUnit": "Q. Bình Thạnh",
+    "contacts": [
+      {
+        "name": "Triệu Lệ Khánh",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0906360001",
+        "phoneNumbers": [
+          "0906360001"
+        ]
+      },
+      {
+        "name": "Cao Hồng Hà",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0908552250",
+        "phoneNumbers": [
+          "0908552250"
+        ]
+      },
+      {
+        "name": "Nguyễn Thu Hiền",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0975373868",
+        "phoneNumbers": [
+          "0975373868"
+        ]
+      },
+      {
+        "name": "Thái Thị Hồng Đào",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0931176559",
+        "phoneNumbers": [
+          "0931176559"
+        ]
+      }
+    ],
+    "sourcePage": 29
+  },
+  {
+    "id": 57,
+    "unit": "Phường Thạnh Mỹ Tây",
+    "formerUnit": "Q. Bình Thạnh",
+    "contacts": [
+      {
+        "name": "Lê Trần Kiên",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0903759966",
+        "phoneNumbers": [
+          "0903759966"
+        ]
+      },
+      {
+        "name": "Nguyễn Thu Hương",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0908222028",
+        "phoneNumbers": [
+          "0908222028"
+        ]
+      },
+      {
+        "name": "Bùi Thị Hồng Quế",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0913644929",
+        "phoneNumbers": [
+          "0913644929"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Loan",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0935981886",
+        "phoneNumbers": [
+          "0935981886"
+        ]
+      }
+    ],
+    "sourcePage": 30
+  },
+  {
+    "id": 58,
+    "unit": "Phường Cầu Kiệu",
+    "formerUnit": "Q. Phú Nhuận",
+    "contacts": [
+      {
+        "name": "Trần Thu Hà",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0935046310",
+        "phoneNumbers": [
+          "0935046310"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Kiều Nhi",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0938698089",
+        "phoneNumbers": [
+          "0938698089"
+        ]
+      },
+      {
+        "name": "Trần Quang Sang",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0903789273",
+        "phoneNumbers": [
+          "0903789273"
+        ]
+      },
+      {
+        "name": "Tạ Duy Thiện",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0768150480",
+        "phoneNumbers": [
+          "0768150480"
+        ]
+      }
+    ],
+    "sourcePage": 30
+  },
+  {
+    "id": 59,
+    "unit": "Phường Đức Nhuận",
+    "formerUnit": "Q. Phú Nhuận",
+    "contacts": [
+      {
+        "name": "Phan Thị Thanh Phương",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0908367983",
+        "phoneNumbers": [
+          "0908367983"
+        ]
+      },
+      {
+        "name": "Trần Xuân Nguyên",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0903622866",
+        "phoneNumbers": [
+          "0903622866"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Thanh Thảo",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0903998717",
+        "phoneNumbers": [
+          "0903998717"
+        ]
+      },
+      {
+        "name": "Trần Nguyên Quang Hiển",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0909322869",
+        "phoneNumbers": [
+          "0909322869"
+        ]
+      }
+    ],
+    "sourcePage": 31
+  },
+  {
+    "id": 60,
+    "unit": "Phường Phú Nhuận",
+    "formerUnit": "Q. Phú Nhuận",
+    "contacts": [
+      {
+        "name": "Nguyễn Đông Tùng",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0389096688",
+        "phoneNumbers": [
+          "0389096688"
+        ]
+      },
+      {
+        "name": "Trần Thị Mai Lý",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0909380061",
+        "phoneNumbers": [
+          "0909380061"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Như Ý",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0903819803",
+        "phoneNumbers": [
+          "0903819803"
+        ]
+      },
+      {
+        "name": "Trần Huỳnh Hoa",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0903868802",
+        "phoneNumbers": [
+          "0903868802"
+        ]
+      }
+    ],
+    "sourcePage": 31
+  },
+  {
+    "id": 61,
+    "unit": "Phường Hạnh Thông",
+    "formerUnit": "Q. Gò Vấp",
+    "contacts": [
+      {
+        "name": "Huỳnh Văn Hồng Ngọc",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0965242578",
+        "phoneNumbers": [
+          "0965242578"
+        ]
+      },
+      {
+        "name": "Trần Ngọc Phượng",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0908242421",
+        "phoneNumbers": [
+          "0908242421"
+        ]
+      },
+      {
+        "name": "Phạm Thị Thanh Nhàn",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0986630082",
+        "phoneNumbers": [
+          "0986630082"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Mai Thương",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0937802499",
+        "phoneNumbers": [
+          "0937802499"
+        ]
+      }
+    ],
+    "sourcePage": 32
+  },
+  {
+    "id": 62,
+    "unit": "Phường An Nhơn",
+    "formerUnit": "Q. Gò Vấp",
+    "contacts": [
+      {
+        "name": "Phạm Trung Kiên",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0933156701",
+        "phoneNumbers": [
+          "0933156701"
+        ]
+      },
+      {
+        "name": "Lê Thị Kim Thủy",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0867793677",
+        "phoneNumbers": [
+          "0867793677"
+        ]
+      },
+      {
+        "name": "Nguyễn Ngọc Anh",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0988881582",
+        "phoneNumbers": [
+          "0988881582"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Kim Anh",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0765453989",
+        "phoneNumbers": [
+          "0765453989"
+        ]
+      }
+    ],
+    "sourcePage": 32
+  },
+  {
+    "id": 63,
+    "unit": "Phường Gò Vấp",
+    "formerUnit": "Q. Gò Vấp",
+    "contacts": [
+      {
+        "name": "Nguyễn Trí Dũng",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0979797911",
+        "phoneNumbers": [
+          "0979797911"
+        ]
+      },
+      {
+        "name": "Phùng Kiên Giang",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0908884205",
+        "phoneNumbers": [
+          "0908884205"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Đoan Trang",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0918048905",
+        "phoneNumbers": [
+          "0918048905"
+        ]
+      },
+      {
+        "name": "Thân Thị Hồng Yến",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0902936961",
+        "phoneNumbers": [
+          "0902936961"
+        ]
+      }
+    ],
+    "sourcePage": 33
+  },
+  {
+    "id": 64,
+    "unit": "Phường Thông Tây Hội",
+    "formerUnit": "Q. Gò Vấp",
+    "contacts": [
+      {
+        "name": "Nguyễn Thị Thu Hà",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0983931213",
+        "phoneNumbers": [
+          "0983931213"
+        ]
+      },
+      {
+        "name": "Nguyễn Thanh Thủy",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0777985963",
+        "phoneNumbers": [
+          "0777985963"
+        ]
+      },
+      {
+        "name": "Đào Thị My Thư",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0985995969",
+        "phoneNumbers": [
+          "0985995969"
+        ]
+      },
+      {
+        "name": "Đỗ Thị Vân",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0907996133",
+        "phoneNumbers": [
+          "0907996133"
+        ]
+      }
+    ],
+    "sourcePage": 33
+  },
+  {
+    "id": 65,
+    "unit": "Phường An Hội Tây",
+    "formerUnit": "Q. Gò Vấp",
+    "contacts": [
+      {
+        "name": "Trần Đoàn Trung",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0909120676",
+        "phoneNumbers": [
+          "0909120676"
+        ]
+      },
+      {
+        "name": "Đào Thị Hồng Hạnh",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0903920850",
+        "phoneNumbers": [
+          "0903920850"
+        ]
+      },
+      {
+        "name": "Lâm Thị Hồng Phúc",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0909559917",
+        "phoneNumbers": [
+          "0909559917"
+        ]
+      },
+      {
+        "name": "Huỳnh Thanh Tuyến",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0907955061",
+        "phoneNumbers": [
+          "0907955061"
+        ]
+      }
+    ],
+    "sourcePage": 34
+  },
+  {
+    "id": 66,
+    "unit": "Phường An Hội Đông",
+    "formerUnit": "Q. Gò Vấp",
+    "contacts": [
+      {
+        "name": "Hoàng Thị Kim Thu",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0903871949",
+        "phoneNumbers": [
+          "0903871949"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Hà",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0903771533",
+        "phoneNumbers": [
+          "0903771533"
+        ]
+      },
+      {
+        "name": "Tô Đình Triệu",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0903855033",
+        "phoneNumbers": [
+          "0903855033"
+        ]
+      },
+      {
+        "name": "Lê Thị Tâm",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0907797779",
+        "phoneNumbers": [
+          "0907797779"
+        ]
+      }
+    ],
+    "sourcePage": 34
+  },
+  {
+    "id": 67,
+    "unit": "Xã Hóc Môn",
+    "formerUnit": "Huyện Hóc Môn",
+    "contacts": [
+      {
+        "name": "Lê Thị Ngọc Thanh",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0902387476",
+        "phoneNumbers": [
+          "0902387476"
+        ]
+      },
+      {
+        "name": "Huỳnh Thị Thu Thảo",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0909798977",
+        "phoneNumbers": [
+          "0909798977"
+        ]
+      },
+      {
+        "name": "Trần Văn Chiến",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0902725678",
+        "phoneNumbers": [
+          "0902725678"
+        ]
+      },
+      {
+        "name": "Dương Thị Bình",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0908828567",
+        "phoneNumbers": [
+          "0908828567"
+        ]
+      }
+    ],
+    "sourcePage": 35
+  },
+  {
+    "id": 68,
+    "unit": "Xã Bà Điểm",
+    "formerUnit": "Huyện Hóc Môn",
+    "contacts": [
+      {
+        "name": "Nguyễn Anh Tuấn",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0989015169",
+        "phoneNumbers": [
+          "0989015169"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Kim Phúc",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0909847748",
+        "phoneNumbers": [
+          "0909847748"
+        ]
+      },
+      {
+        "name": "Nguyễn Tuấn Anh",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0908131575",
+        "phoneNumbers": [
+          "0908131575"
+        ]
+      },
+      {
+        "name": "Lê Thị Ngọc Bích",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0905287158",
+        "phoneNumbers": [
+          "0905287158"
+        ]
+      }
+    ],
+    "sourcePage": 35
+  },
+  {
+    "id": 69,
+    "unit": "Xã Xuân Thới Sơn",
+    "formerUnit": "Huyện Hóc Môn",
+    "contacts": [
+      {
+        "name": "Nguyễn Văn Tài",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0936683739",
+        "phoneNumbers": [
+          "0936683739"
+        ]
+      },
+      {
+        "name": "Huỳnh Thị Xuân Mai",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0907679111",
+        "phoneNumbers": [
+          "0907679111"
+        ]
+      },
+      {
+        "name": "Phạm Xuân Nam",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0939458088",
+        "phoneNumbers": [
+          "0939458088"
+        ]
+      },
+      {
+        "name": "Đặng Quang Sang",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0908815234",
+        "phoneNumbers": [
+          "0908815234"
+        ]
+      }
+    ],
+    "sourcePage": 36
+  },
+  {
+    "id": 70,
+    "unit": "Xã Đông Thạnh",
+    "formerUnit": "Huyện Hóc Môn",
+    "contacts": [
+      {
+        "name": "Nguyễn Văn Tuyên",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0908282717",
+        "phoneNumbers": [
+          "0908282717"
+        ]
+      },
+      {
+        "name": "Lưu Anh Tuấn",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0909896123",
+        "phoneNumbers": [
+          "0909896123"
+        ]
+      },
+      {
+        "name": "Nguyễn Mậu Phương Quỳnh",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0988607886",
+        "phoneNumbers": [
+          "0988607886"
+        ]
+      },
+      {
+        "name": "Quỳnh Nguyễn Hữu Nguyên",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0913668366",
+        "phoneNumbers": [
+          "0913668366"
+        ]
+      }
+    ],
+    "sourcePage": 36
+  },
+  {
+    "id": 71,
+    "unit": "Xã An Nhơn Tây",
+    "formerUnit": "Huyện Củ Chi",
+    "contacts": [
+      {
+        "name": "Nguyễn Thị Hằng",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0908245265",
+        "phoneNumbers": [
+          "0908245265"
+        ]
+      },
+      {
+        "name": "Huỳnh Vĩnh Lộc",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0776558811",
+        "phoneNumbers": [
+          "0776558811"
+        ]
+      },
+      {
+        "name": "Lê Ngọc Sương",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0909323893",
+        "phoneNumbers": [
+          "0909323893"
+        ]
+      },
+      {
+        "name": "Trần Thanh Nam",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0986883673",
+        "phoneNumbers": [
+          "0986883673"
+        ]
+      }
+    ],
+    "sourcePage": 37
+  },
+  {
+    "id": 72,
+    "unit": "Xã Thái Mỹ",
+    "formerUnit": "Huyện Củ Chi",
+    "contacts": [
+      {
+        "name": "Trương Nữ Hoàng Thanh Bình",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0964268739",
+        "phoneNumbers": [
+          "0964268739"
+        ]
+      },
+      {
+        "name": "Bình Huỳnh Thị Vang",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0903399154",
+        "phoneNumbers": [
+          "0903399154"
+        ]
+      },
+      {
+        "name": "Nguyễn Đức Thịnh",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0903606799",
+        "phoneNumbers": [
+          "0903606799"
+        ]
+      },
+      {
+        "name": "Trần Tấn Trung",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0908509189",
+        "phoneNumbers": [
+          "0908509189"
+        ]
+      }
+    ],
+    "sourcePage": 37
+  },
+  {
+    "id": 73,
+    "unit": "Xã Tân An Hội",
+    "formerUnit": "Huyện Củ Chi",
+    "contacts": [
+      {
+        "name": "Nguyễn Quyết Thắng",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0908005773",
+        "phoneNumbers": [
+          "0908005773"
+        ]
+      },
+      {
+        "name": "Nguyễn Thanh Bình",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0909047447",
+        "phoneNumbers": [
+          "0909047447"
+        ]
+      },
+      {
+        "name": "Nguyễn Thanh Phong",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0988515870",
+        "phoneNumbers": [
+          "0988515870"
+        ]
+      },
+      {
+        "name": "Phạm Thị Bạch Nhu",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "03488309556",
+        "phoneNumbers": [
+          "03488309556"
+        ]
+      }
+    ],
+    "sourcePage": 38
+  },
+  {
+    "id": 74,
+    "unit": "Xã Củ Chi",
+    "formerUnit": "Huyện Củ Chi",
+    "contacts": [
+      {
+        "name": "Hứa Quốc Hưng",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0932777707",
+        "phoneNumbers": [
+          "0932777707"
+        ]
+      },
+      {
+        "name": "Trần Thị Ngọc Dung",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0974696858",
+        "phoneNumbers": [
+          "0974696858"
+        ]
+      },
+      {
+        "name": "Phạm Kiều Hưng",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0908178899",
+        "phoneNumbers": [
+          "0908178899"
+        ]
+      },
+      {
+        "name": "Võ Thanh Diệu",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0902378875",
+        "phoneNumbers": [
+          "0902378875"
+        ]
+      }
+    ],
+    "sourcePage": 38
+  },
+  {
+    "id": 75,
+    "unit": "Xã Nhuận Đức",
+    "formerUnit": "Huyện Củ Chi",
+    "contacts": [
+      {
+        "name": "Võ Thị Kiều Tiên",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0978544597",
+        "phoneNumbers": [
+          "0978544597"
+        ]
+      },
+      {
+        "name": "Mai Thị Ngọc Duyên",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0902783977",
+        "phoneNumbers": [
+          "0902783977"
+        ]
+      },
+      {
+        "name": "Phạm Văn Dũng",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0932708928",
+        "phoneNumbers": [
+          "0932708928"
+        ]
+      },
+      {
+        "name": "Nguyễn Văn Lượng",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0983782579",
+        "phoneNumbers": [
+          "0983782579"
+        ]
+      }
+    ],
+    "sourcePage": 39
+  },
+  {
+    "id": 76,
+    "unit": "Xã Phú Hòa Đông",
+    "formerUnit": "Huyện Củ Chi",
+    "contacts": [
+      {
+        "name": "Nguyễn Văn Nghĩa",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0903783889",
+        "phoneNumbers": [
+          "0903783889"
+        ]
+      },
+      {
+        "name": "Lê Thị Ánh Tuyết",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0977114379",
+        "phoneNumbers": [
+          "0977114379"
+        ]
+      },
+      {
+        "name": "Nguyễn Minh Tuấn",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0935276566",
+        "phoneNumbers": [
+          "0935276566"
+        ]
+      },
+      {
+        "name": "Võ Thị Thanh Hằng",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0938175339",
+        "phoneNumbers": [
+          "0938175339"
+        ]
+      }
+    ],
+    "sourcePage": 39
+  },
+  {
+    "id": 77,
+    "unit": "Xã Bình Mỹ",
+    "formerUnit": "Huyện Củ Chi",
+    "contacts": [
+      {
+        "name": "Nguyễn Chí Dũng",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0913169266",
+        "phoneNumbers": [
+          "0913169266"
+        ]
+      },
+      {
+        "name": "Phan Hiệp Hòa",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0902911901",
+        "phoneNumbers": [
+          "0902911901"
+        ]
+      },
+      {
+        "name": "Nguyễn Anh Tuấn",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0934000561",
+        "phoneNumbers": [
+          "0934000561"
+        ]
+      },
+      {
+        "name": "Huỳnh Văn Thành",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0907585525",
+        "phoneNumbers": [
+          "0907585525"
+        ]
+      }
+    ],
+    "sourcePage": 40
+  },
+  {
+    "id": 78,
+    "unit": "Xã Nhà Bè",
+    "formerUnit": "Huyện Nhà Bè",
+    "contacts": [
+      {
+        "name": "Phan Ngọc Phúc",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0903313068",
+        "phoneNumbers": [
+          "0903313068"
+        ]
+      },
+      {
+        "name": "Nguyễn Kiều Thu",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "",
+        "phoneNumbers": []
+      },
+      {
+        "name": "Võ Phan Lê Nguyễn",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0913638056",
+        "phoneNumbers": [
+          "0913638056"
+        ]
+      },
+      {
+        "name": "Nguyễn Võ Quốc Cao",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0977855311",
+        "phoneNumbers": [
+          "0977855311"
+        ]
+      }
+    ],
+    "sourcePage": 40
+  },
+  {
+    "id": 79,
+    "unit": "Xã Hiệp Phước",
+    "formerUnit": "Huyện Nhà Bè",
+    "contacts": [
+      {
+        "name": "Nguyễn Minh Đức",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0918189070",
+        "phoneNumbers": [
+          "0918189070"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Thanh Thảo",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "",
+        "phoneNumbers": []
+      },
+      {
+        "name": "Lê Thị Anh Thư",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0906790172",
+        "phoneNumbers": [
+          "0906790172"
+        ]
+      },
+      {
+        "name": "Bùi Trung Hiếu",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0983758175",
+        "phoneNumbers": [
+          "0983758175"
+        ]
+      }
+    ],
+    "sourcePage": 41
+  },
+  {
+    "id": 80,
+    "unit": "Xã Vĩnh Lộc",
+    "formerUnit": "Huyện Bình Chánh",
+    "contacts": [
+      {
+        "name": "Huỳnh Cao Cường",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0908606004",
+        "phoneNumbers": [
+          "0908606004"
+        ]
+      },
+      {
+        "name": "Thái Thành Tâm",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0909738837",
+        "phoneNumbers": [
+          "0909738837"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Thảo",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0937164599",
+        "phoneNumbers": [
+          "0937164599"
+        ]
+      },
+      {
+        "name": "Nguyễn Quang Tuấn",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0978497376",
+        "phoneNumbers": [
+          "0978497376"
+        ]
+      }
+    ],
+    "sourcePage": 41
+  },
+  {
+    "id": 81,
+    "unit": "Xã Tân Vĩnh Lộc",
+    "formerUnit": "Huyện Bình Chánh",
+    "contacts": [
+      {
+        "name": "Nguyễn Thanh Nhã",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0908931008",
+        "phoneNumbers": [
+          "0908931008"
+        ]
+      },
+      {
+        "name": "Trần Thị Kim Anh",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0903747466",
+        "phoneNumbers": [
+          "0903747466"
+        ]
+      },
+      {
+        "name": "Nguyễn Thành Nhân",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0933879879",
+        "phoneNumbers": [
+          "0933879879"
+        ]
+      },
+      {
+        "name": "Nguyễn Chí Dũng",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0909507250",
+        "phoneNumbers": [
+          "0909507250"
+        ]
+      }
+    ],
+    "sourcePage": 42
+  },
+  {
+    "id": 82,
+    "unit": "Xã Bình Lợi",
+    "formerUnit": "Huyện Bình Chánh",
+    "contacts": [
+      {
+        "name": "Trương Minh Tước Nguyên",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0908540521",
+        "phoneNumbers": [
+          "0908540521"
+        ]
+      },
+      {
+        "name": "Nguyên Phan Thanh Huy",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0975418551",
+        "phoneNumbers": [
+          "0975418551"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Liêm",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0909622776",
+        "phoneNumbers": [
+          "0909622776"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Mỹ Hương",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0938538735",
+        "phoneNumbers": [
+          "0938538735"
+        ]
+      }
+    ],
+    "sourcePage": 42
+  },
+  {
+    "id": 83,
+    "unit": "Xã Tân Nhựt",
+    "formerUnit": "Huyện Bình Chánh",
+    "contacts": [
+      {
+        "name": "Hà Phước Thắng",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0913732313",
+        "phoneNumbers": [
+          "0913732313"
+        ]
+      },
+      {
+        "name": "Phan Thị Cẩm Nhung",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0909329981",
+        "phoneNumbers": [
+          "0909329981"
+        ]
+      },
+      {
+        "name": "Lê Như Hải Long",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0934041368",
+        "phoneNumbers": [
+          "0934041368"
+        ]
+      },
+      {
+        "name": "Huỳnh Tấn Thành",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0937735678",
+        "phoneNumbers": [
+          "0937735678"
+        ]
+      }
+    ],
+    "sourcePage": 43
+  },
+  {
+    "id": 84,
+    "unit": "Xã Bình Chánh",
+    "formerUnit": "Huyện Bình Chánh",
+    "contacts": [
+      {
+        "name": "Nguyễn Thành Lợi",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0913152266",
+        "phoneNumbers": [
+          "0913152266"
+        ]
+      },
+      {
+        "name": "Võ Thị Hoàng Oanh",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0932044339",
+        "phoneNumbers": [
+          "0932044339"
+        ]
+      },
+      {
+        "name": "Trương Thái Ngọc",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0969709798",
+        "phoneNumbers": [
+          "0969709798"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Thanh Thúy",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0914501338",
+        "phoneNumbers": [
+          "0914501338"
+        ]
+      }
+    ],
+    "sourcePage": 43
+  },
+  {
+    "id": 85,
+    "unit": "Xã Hưng Long",
+    "formerUnit": "Huyện Bình Chánh",
+    "contacts": [
+      {
+        "name": "Nguyễn Thị Ngọc Hạnh",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0983442747",
+        "phoneNumbers": [
+          "0983442747"
+        ]
+      },
+      {
+        "name": "Nguyễn Yến Nhi",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0908561183",
+        "phoneNumbers": [
+          "0908561183"
+        ]
+      },
+      {
+        "name": "Huỳnh Văn Phạm Hồng",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0908861792",
+        "phoneNumbers": [
+          "0908861792"
+        ]
+      },
+      {
+        "name": "Huỳnh Thị Kim Ân",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0902689311",
+        "phoneNumbers": [
+          "0902689311"
+        ]
+      }
+    ],
+    "sourcePage": 44
+  },
+  {
+    "id": 86,
+    "unit": "Xã Bình Hưng",
+    "formerUnit": "Huyện Bình Chánh",
+    "contacts": [
+      {
+        "name": "Phạm Văn Lũy",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0918088347",
+        "phoneNumbers": [
+          "0918088347"
+        ]
+      },
+      {
+        "name": "Lê Thái Họa Mi",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0777151281",
+        "phoneNumbers": [
+          "0777151281"
+        ]
+      },
+      {
+        "name": "Biện Ngọc Toàn",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0909313730",
+        "phoneNumbers": [
+          "0909313730"
+        ]
+      },
+      {
+        "name": "Phạm Thị Thanh Thủy",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0937049152",
+        "phoneNumbers": [
+          "0937049152"
+        ]
+      }
+    ],
+    "sourcePage": 44
+  },
+  {
+    "id": 87,
+    "unit": "Xã Cần Giờ",
+    "formerUnit": "Huyện Cần Giờ",
+    "contacts": [
+      {
+        "name": "Nguyễn Ngọc Vũ",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0982857979",
+        "phoneNumbers": [
+          "0982857979"
+        ]
+      },
+      {
+        "name": "",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "",
+        "phoneNumbers": []
+      },
+      {
+        "name": "Võ Hữu Thắng",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0913635964",
+        "phoneNumbers": [
+          "0913635964"
+        ]
+      },
+      {
+        "name": "Trần Thị Ngọc Hân",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0983790911",
+        "phoneNumbers": [
+          "0983790911"
+        ]
+      }
+    ],
+    "sourcePage": 45
+  },
+  {
+    "id": 88,
+    "unit": "Xã Thạnh An",
+    "formerUnit": "Huyện Cần Giờ",
+    "contacts": [
+      {
+        "name": "Lê Thị Hồng Phượng",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0987763764",
+        "phoneNumbers": [
+          "0987763764"
+        ]
+      },
+      {
+        "name": "Huỳnh Minh Quang",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0909188114",
+        "phoneNumbers": [
+          "0909188114"
+        ]
+      },
+      {
+        "name": "Hồ Hồng Thành Tính",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0902953100",
+        "phoneNumbers": [
+          "0902953100"
+        ]
+      },
+      {
+        "name": "Phạm Văn Thắng",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0948687772",
+        "phoneNumbers": [
+          "0948687772"
+        ]
+      }
+    ],
+    "sourcePage": 45
+  },
+  {
+    "id": 89,
+    "unit": "Xã Bình Khánh",
+    "formerUnit": "Huyện Cần Giờ",
+    "contacts": [
+      {
+        "name": "Nguyễn Ngọc Xuân",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0913885781",
+        "phoneNumbers": [
+          "0913885781"
+        ]
+      },
+      {
+        "name": "Huỳnh Anh Tuấn",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0903178718",
+        "phoneNumbers": [
+          "0903178718"
+        ]
+      },
+      {
+        "name": "Kha Văn Phước",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0913144979",
+        "phoneNumbers": [
+          "0913144979"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Ngọc Thúy",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0978119227",
+        "phoneNumbers": [
+          "0978119227"
+        ]
+      }
+    ],
+    "sourcePage": 46
+  },
+  {
+    "id": 90,
+    "unit": "Xã An Thới Đông",
+    "formerUnit": "Huyện Cần Giờ",
+    "contacts": [
+      {
+        "name": "Cổ Thị Ngọc Điệp",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0984664546",
+        "phoneNumbers": [
+          "0984664546"
+        ]
+      },
+      {
+        "name": "Phan Lê Hoài Phong",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0903629792",
+        "phoneNumbers": [
+          "0903629792"
+        ]
+      },
+      {
+        "name": "Trần Hoàng Vũ",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0909959570",
+        "phoneNumbers": [
+          "0909959570"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Đẹp",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0909141409",
+        "phoneNumbers": [
+          "0909141409"
+        ]
+      }
+    ],
+    "sourcePage": 46
+  },
+  {
+    "id": 91,
+    "unit": "Phường Thủ Đức",
+    "formerUnit": "TP. Thủ Đức",
+    "contacts": [
+      {
+        "name": "Mai Hữu Quyết",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0933802606",
+        "phoneNumbers": [
+          "0933802606"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Hồng Thảo",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0903011546",
+        "phoneNumbers": [
+          "0903011546"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Mai Trinh",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0944777769",
+        "phoneNumbers": [
+          "0944777769"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Minh Hồng",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0938513423",
+        "phoneNumbers": [
+          "0938513423"
+        ]
+      }
+    ],
+    "sourcePage": 47
+  },
+  {
+    "id": 92,
+    "unit": "Phường Bình Trưng",
+    "formerUnit": "TP. Thủ Đức",
+    "contacts": [
+      {
+        "name": "Trần Quốc Trung",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0977181875",
+        "phoneNumbers": [
+          "0977181875"
+        ]
+      },
+      {
+        "name": "Lê Quang Nam",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0903011546",
+        "phoneNumbers": [
+          "0903011546"
+        ]
+      },
+      {
+        "name": "Nguyễn Chí Thanh",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0903683649",
+        "phoneNumbers": [
+          "0903683649"
+        ]
+      },
+      {
+        "name": "Trịnh Thị Thúy Hiền",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0918290006",
+        "phoneNumbers": [
+          "0918290006"
+        ]
+      }
+    ],
+    "sourcePage": 47
+  },
+  {
+    "id": 93,
+    "unit": "Phường An Khánh",
+    "formerUnit": "TP. Thủ Đức",
+    "contacts": [
+      {
+        "name": "Hoàng Tùng",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0913168767",
+        "phoneNumbers": [
+          "0913168767"
+        ]
+      },
+      {
+        "name": "Hoàng Thị Em",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0918632555",
+        "phoneNumbers": [
+          "0918632555"
+        ]
+      },
+      {
+        "name": "Nguyễn Thành Trung",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0965766879",
+        "phoneNumbers": [
+          "0965766879"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Bông",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0982383991",
+        "phoneNumbers": [
+          "0982383991"
+        ]
+      }
+    ],
+    "sourcePage": 48
+  },
+  {
+    "id": 94,
+    "unit": "Phường Tam Bình",
+    "formerUnit": "TP. Thủ Đức",
+    "contacts": [
+      {
+        "name": "Nguyễn Trần Phượng Trân",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0908553006",
+        "phoneNumbers": [
+          "0908553006"
+        ]
+      },
+      {
+        "name": "Trân Thái Mỹ Diện",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0909533304",
+        "phoneNumbers": [
+          "0909533304"
+        ]
+      },
+      {
+        "name": "Nguyễn Minh Điền",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0903158370",
+        "phoneNumbers": [
+          "0903158370"
+        ]
+      },
+      {
+        "name": "Đặng Trần Quang Tuấn",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0903196838",
+        "phoneNumbers": [
+          "0903196838"
+        ]
+      }
+    ],
+    "sourcePage": 48
+  },
+  {
+    "id": 95,
+    "unit": "Phường Linh Xuân",
+    "formerUnit": "TP. Thủ Đức",
+    "contacts": [
+      {
+        "name": "Nguyễn Thị Bé Hai",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0914702248",
+        "phoneNumbers": [
+          "0914702248"
+        ]
+      },
+      {
+        "name": "Phạm Đức Sơn",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0918409996",
+        "phoneNumbers": [
+          "0918409996"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Kim Cúc",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0908595818",
+        "phoneNumbers": [
+          "0908595818"
+        ]
+      },
+      {
+        "name": "Trần Thị Cẩm Vân",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0909866082",
+        "phoneNumbers": [
+          "0909866082"
+        ]
+      }
+    ],
+    "sourcePage": 49
+  },
+  {
+    "id": 96,
+    "unit": "Phường Tăng Nhơn Phú",
+    "formerUnit": "TP. Thủ Đức",
+    "contacts": [
+      {
+        "name": "Nguyễn Bạch Hoàng Phụng",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0903869822",
+        "phoneNumbers": [
+          "0903869822"
+        ]
+      },
+      {
+        "name": "Phụng Trương Tấn Kiệt",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0903746157",
+        "phoneNumbers": [
+          "0903746157"
+        ]
+      },
+      {
+        "name": "Cao Thị Ngọc Châu",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0907767272",
+        "phoneNumbers": [
+          "0907767272"
+        ]
+      },
+      {
+        "name": "Nguyễn Tuấn Khanh",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0936736136",
+        "phoneNumbers": [
+          "0936736136"
+        ]
+      }
+    ],
+    "sourcePage": 49
+  },
+  {
+    "id": 97,
+    "unit": "Phường Phước Long",
+    "formerUnit": "TP. Thủ Đức",
+    "contacts": [
+      {
+        "name": "Phạm Hoài Minh Tân",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0913186111",
+        "phoneNumbers": [
+          "0913186111"
+        ]
+      },
+      {
+        "name": "Đặng Thị Bích Thuận",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0903146154",
+        "phoneNumbers": [
+          "0903146154"
+        ]
+      },
+      {
+        "name": "Hà Tuấn Anh",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0989396936",
+        "phoneNumbers": [
+          "0989396936"
+        ]
+      },
+      {
+        "name": "Liên Minh Thiện",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0937870507",
+        "phoneNumbers": [
+          "0937870507"
+        ]
+      }
+    ],
+    "sourcePage": 50
+  },
+  {
+    "id": 98,
+    "unit": "Phường Long Trường",
+    "formerUnit": "TP. Thủ Đức",
+    "contacts": [
+      {
+        "name": "Kiều Ngọc Vũ",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0902378668",
+        "phoneNumbers": [
+          "0902378668"
+        ]
+      },
+      {
+        "name": "Nguyễn Văn Dũng",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0983269638",
+        "phoneNumbers": [
+          "0983269638"
+        ]
+      },
+      {
+        "name": "Lê Ngọc Dũng",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0933663390",
+        "phoneNumbers": [
+          "0933663390"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Thanh",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0903120360",
+        "phoneNumbers": [
+          "0903120360"
+        ]
+      }
+    ],
+    "sourcePage": 50
+  },
+  {
+    "id": 99,
+    "unit": "Phường Long Bình",
+    "formerUnit": "TP. Thủ Đức",
+    "contacts": [
+      {
+        "name": "Trần Hữu Phước",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0989238238",
+        "phoneNumbers": [
+          "0989238238"
+        ]
+      },
+      {
+        "name": "Nguyễn Hạnh Thảo",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0903997121",
+        "phoneNumbers": [
+          "0903997121"
+        ]
+      },
+      {
+        "name": "Nguyễn Hồng Điệp",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0909577708",
+        "phoneNumbers": [
+          "0909577708"
+        ]
+      },
+      {
+        "name": "Nguyễn Đức Tân",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0909753032",
+        "phoneNumbers": [
+          "0909753032"
+        ]
+      }
+    ],
+    "sourcePage": 51
+  },
+  {
+    "id": 100,
+    "unit": "Phường Cát Lái",
+    "formerUnit": "TP. Thủ Đức",
+    "contacts": [
+      {
+        "name": "Đỗ Anh Khang",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0908005060",
+        "phoneNumbers": [
+          "0908005060"
+        ]
+      },
+      {
+        "name": "Võ Minh Thanh Tùng",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0983988378",
+        "phoneNumbers": [
+          "0983988378"
+        ]
+      },
+      {
+        "name": "Võ Tấn Quan",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0985695758",
+        "phoneNumbers": [
+          "0985695758"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Hồng Nhung",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0914102768",
+        "phoneNumbers": [
+          "0914102768"
+        ]
+      }
+    ],
+    "sourcePage": 51
+  },
+  {
+    "id": 101,
+    "unit": "Phường Hiệp Bình",
+    "formerUnit": "TP. Thủ Đức",
+    "contacts": [
+      {
+        "name": "Vũ Anh Tuấn",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0908466859",
+        "phoneNumbers": [
+          "0908466859"
+        ]
+      },
+      {
+        "name": "Phạm Hoa Mai",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0908411833",
+        "phoneNumbers": [
+          "0908411833"
+        ]
+      },
+      {
+        "name": "Võ Thanh Bình",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0903751036",
+        "phoneNumbers": [
+          "0903751036"
+        ]
+      },
+      {
+        "name": "Mai Thị Xuân Hồng",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0908929803",
+        "phoneNumbers": [
+          "0908929803"
+        ]
+      }
+    ],
+    "sourcePage": 52
+  },
+  {
+    "id": 102,
+    "unit": "Phường Long Phước",
+    "formerUnit": "TP. Thủ Đức",
+    "contacts": [
+      {
+        "name": "Lê Minh Khoa",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0918030278",
+        "phoneNumbers": [
+          "0918030278"
+        ]
+      },
+      {
+        "name": "Hoàng Thị Minh Ngọc",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0908579620",
+        "phoneNumbers": [
+          "0908579620"
+        ]
+      },
+      {
+        "name": "Lưu Trọng Nghĩa",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0988960899",
+        "phoneNumbers": [
+          "0988960899"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Khánh Bình",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0908251740",
+        "phoneNumbers": [
+          "0908251740"
+        ]
+      }
+    ],
+    "sourcePage": 52
+  },
+  {
+    "id": 103,
+    "unit": "Xã Bắc Tân Uyên",
+    "formerUnit": "Huyện Bắc Tân Uyên",
+    "contacts": [
+      {
+        "name": "Võ Văn Tính",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0913857667",
+        "phoneNumbers": [
+          "0913857667"
+        ]
+      },
+      {
+        "name": "Huỳnh Văn Thọ",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0918729286",
+        "phoneNumbers": [
+          "0918729286"
+        ]
+      },
+      {
+        "name": "Trần Hoài Thu",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0916696900",
+        "phoneNumbers": [
+          "0916696900"
+        ]
+      },
+      {
+        "name": "Nguyễn Trọng Bình",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0977069100",
+        "phoneNumbers": [
+          "0977069100"
+        ]
+      }
+    ],
+    "sourcePage": 53
+  },
+  {
+    "id": 104,
+    "unit": "Xã Thường Tân",
+    "formerUnit": "Huyện Bắc Tân Uyên",
+    "contacts": [
+      {
+        "name": "Nguyễn Thanh Lâm",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0937830976",
+        "phoneNumbers": [
+          "0937830976"
+        ]
+      },
+      {
+        "name": "Lê Huỳnh Lê",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0909242181",
+        "phoneNumbers": [
+          "0909242181"
+        ]
+      },
+      {
+        "name": "Đoàn Quang Cảnh",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0989463464",
+        "phoneNumbers": [
+          "0989463464"
+        ]
+      },
+      {
+        "name": "Nguyễn Trọng Nhân",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0908668976",
+        "phoneNumbers": [
+          "0908668976"
+        ]
+      }
+    ],
+    "sourcePage": 53
+  },
+  {
+    "id": 105,
+    "unit": "Xã Bàu Bàng",
+    "formerUnit": "Huyện Bàu Bàng",
+    "contacts": [
+      {
+        "name": "Nguyễn Phú Cường",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0918202044",
+        "phoneNumbers": [
+          "0918202044"
+        ]
+      },
+      {
+        "name": "Nguyễn Văn Lập",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0949292393",
+        "phoneNumbers": [
+          "0949292393"
+        ]
+      },
+      {
+        "name": "Nguyễn Hữu Luận",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0933688678",
+        "phoneNumbers": [
+          "0933688678"
+        ]
+      },
+      {
+        "name": "Võ Thị Mỹ Loan",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0911542677",
+        "phoneNumbers": [
+          "0911542677"
+        ]
+      }
+    ],
+    "sourcePage": 54
+  },
+  {
+    "id": 106,
+    "unit": "Xã Trừ Văn Thốn",
+    "formerUnit": "Huyện Bàu Bàng",
+    "contacts": [
+      {
+        "name": "Lưu Văn Long",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0918276162",
+        "phoneNumbers": [
+          "0918276162"
+        ]
+      },
+      {
+        "name": "Võ Văn Trường",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0913785101",
+        "phoneNumbers": [
+          "0913785101"
+        ]
+      },
+      {
+        "name": "Phan Quốc Tuấn",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0945137468",
+        "phoneNumbers": [
+          "0945137468"
+        ]
+      },
+      {
+        "name": "Phạm Nguyễn Uyên Chi",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0834607979",
+        "phoneNumbers": [
+          "0834607979"
+        ]
+      }
+    ],
+    "sourcePage": 54
+  },
+  {
+    "id": 107,
+    "unit": "Phường Long Nguyên",
+    "formerUnit": "TP. Bến Cát",
+    "contacts": [
+      {
+        "name": "Võ Thành Nhân",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0918103679",
+        "phoneNumbers": [
+          "0918103679"
+        ]
+      },
+      {
+        "name": "Trần Tuấn Anh",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "",
+        "phoneNumbers": []
+      },
+      {
+        "name": "Lê Thị Kim Liên",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0979129399",
+        "phoneNumbers": [
+          "0979129399"
+        ]
+      },
+      {
+        "name": "Trần Lê Vân Anh",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0918048864",
+        "phoneNumbers": [
+          "0918048864"
+        ]
+      }
+    ],
+    "sourcePage": 55
+  },
+  {
+    "id": 108,
+    "unit": "Phường Chánh Phú Hòa",
+    "formerUnit": "TP. Bến Cát",
+    "contacts": [
+      {
+        "name": "Trần Thị Minh Hạnh",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0918202044",
+        "phoneNumbers": [
+          "0918202044"
+        ]
+      },
+      {
+        "name": "Nguyễn Văn Đội",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0918595333",
+        "phoneNumbers": [
+          "0918595333"
+        ]
+      },
+      {
+        "name": "Nguyễn Công Quan",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0944394478",
+        "phoneNumbers": [
+          "0944394478"
+        ]
+      },
+      {
+        "name": "Lê Hồng Tươi",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0913135572",
+        "phoneNumbers": [
+          "0913135572"
+        ]
+      }
+    ],
+    "sourcePage": 55
+  },
+  {
+    "id": 109,
+    "unit": "Phường Hòa Lợi",
+    "formerUnit": "TP. Bến Cát",
+    "contacts": [
+      {
+        "name": "Lê Thanh Tâm",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0918202044",
+        "phoneNumbers": [
+          "0918202044"
+        ]
+      },
+      {
+        "name": "Phạm Thị Nghĩa",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "",
+        "phoneNumbers": []
+      },
+      {
+        "name": "Lê Văn Hồng",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0918316191",
+        "phoneNumbers": [
+          "0918316191"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Thanh Thúy",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0909862600",
+        "phoneNumbers": [
+          "0909862600"
+        ]
+      }
+    ],
+    "sourcePage": 56
+  },
+  {
+    "id": 110,
+    "unit": "Phường Bến Cát",
+    "formerUnit": "TP. Bến Cát",
+    "contacts": [
+      {
+        "name": "Nguyễn Trọng Ân",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0918910809",
+        "phoneNumbers": [
+          "0918910809"
+        ]
+      },
+      {
+        "name": "Nguyễn Văn Chung",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0913196504",
+        "phoneNumbers": [
+          "0913196504"
+        ]
+      },
+      {
+        "name": "Trần Thị Thảo",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0988339379",
+        "phoneNumbers": [
+          "0988339379"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Lan Phương",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0911860460",
+        "phoneNumbers": [
+          "0911860460"
+        ]
+      }
+    ],
+    "sourcePage": 56
+  },
+  {
+    "id": 111,
+    "unit": "Phường Tây Nam",
+    "formerUnit": "TP. Bến Cát",
+    "contacts": [
+      {
+        "name": "Trần Ngọc Cường",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0979129399",
+        "phoneNumbers": [
+          "0979129399"
+        ]
+      },
+      {
+        "name": "Tô Văn Sang",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0909985353",
+        "phoneNumbers": [
+          "0909985353"
+        ]
+      },
+      {
+        "name": "Nguyễn Ngọc Phương Liên",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0943929788",
+        "phoneNumbers": [
+          "0943929788"
+        ]
+      },
+      {
+        "name": "Liên Trần Minh Hiếu",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0938500072",
+        "phoneNumbers": [
+          "0938500072"
+        ]
+      }
+    ],
+    "sourcePage": 57
+  },
+  {
+    "id": 112,
+    "unit": "Phường Thới Hòa",
+    "formerUnit": "TP. Bến Cát",
+    "contacts": [
+      {
+        "name": "Nguyễn Thị Yến Loan",
+        "role": "Đảng Bí thư - CT HĐND",
+        "phone": "0946740896",
+        "phoneNumbers": [
+          "0946740896"
+        ]
+      },
+      {
+        "name": "Lê Nguyên Khôi",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0918931202",
+        "phoneNumbers": [
+          "0918931202"
+        ]
+      },
+      {
+        "name": "Bùi Đức Trung",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0918598123",
+        "phoneNumbers": [
+          "0918598123"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Xuân",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0919242595",
+        "phoneNumbers": [
+          "0919242595"
+        ]
+      }
+    ],
+    "sourcePage": 57
+  },
+  {
+    "id": 113,
+    "unit": "Phường Phú An",
+    "formerUnit": "TP. Bến Cát",
+    "contacts": [
+      {
+        "name": "Nguyễn Hoàng Thông",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0918202044",
+        "phoneNumbers": [
+          "0918202044"
+        ]
+      },
+      {
+        "name": "Trần Thị Hương Ly",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0983838900",
+        "phoneNumbers": [
+          "0983838900"
+        ]
+      },
+      {
+        "name": "Trần Bảo Lâm",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0919500522",
+        "phoneNumbers": [
+          "0919500522"
+        ]
+      },
+      {
+        "name": "Huỳnh Thị Tuyết Loan",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0983885843",
+        "phoneNumbers": [
+          "0983885843"
+        ]
+      }
+    ],
+    "sourcePage": 58
+  },
+  {
+    "id": 114,
+    "unit": "Phường Bình Cơ",
+    "formerUnit": "TP. Tân Uyên",
+    "contacts": [
+      {
+        "name": "Phạm Thị Khánh Duyên",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0913104370",
+        "phoneNumbers": [
+          "0913104370"
+        ]
+      },
+      {
+        "name": "Phạm Văn An",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0919037487",
+        "phoneNumbers": [
+          "0919037487"
+        ]
+      },
+      {
+        "name": "Nguyễn Văn Thuận",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0945212313",
+        "phoneNumbers": [
+          "0945212313"
+        ]
+      },
+      {
+        "name": "Châu Văn Khanh",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0903670707",
+        "phoneNumbers": [
+          "0903670707"
+        ]
+      }
+    ],
+    "sourcePage": 58
+  },
+  {
+    "id": 115,
+    "unit": "Phường Tân Uyên",
+    "formerUnit": "TP. Tân Uyên",
+    "contacts": [
+      {
+        "name": "Nguyễn Thị Tuyết Nhung",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0908271339",
+        "phoneNumbers": [
+          "0908271339"
+        ]
+      },
+      {
+        "name": "Lưu Hữu Duyên",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0918230441",
+        "phoneNumbers": [
+          "0918230441"
+        ]
+      },
+      {
+        "name": "Huỳnh Văn Lợi",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0983117399",
+        "phoneNumbers": [
+          "0983117399"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Hải Bình",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0937658068",
+        "phoneNumbers": [
+          "0937658068"
+        ]
+      }
+    ],
+    "sourcePage": 59
+  },
+  {
+    "id": 116,
+    "unit": "Phường Tân Hiệp",
+    "formerUnit": "TP. Tân Uyên",
+    "contacts": [
+      {
+        "name": "Lý Ngọc Phong",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0917282879",
+        "phoneNumbers": [
+          "0917282879"
+        ]
+      },
+      {
+        "name": "Lê Thị Kim Liên",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0908884194",
+        "phoneNumbers": [
+          "0908884194"
+        ]
+      },
+      {
+        "name": "Trần Thị Cẩm Tú",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0907557846",
+        "phoneNumbers": [
+          "0907557846"
+        ]
+      },
+      {
+        "name": "Đinh Quốc Phú",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0988240428",
+        "phoneNumbers": [
+          "0988240428"
+        ]
+      }
+    ],
+    "sourcePage": 59
+  },
+  {
+    "id": 117,
+    "unit": "Phường Tân Khánh",
+    "formerUnit": "TP. Tân Uyên",
+    "contacts": [
+      {
+        "name": "Trần Lê Quan",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0913143874",
+        "phoneNumbers": [
+          "0913143874"
+        ]
+      },
+      {
+        "name": "Đặng Quang Vinh",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0983656382",
+        "phoneNumbers": [
+          "0983656382"
+        ]
+      },
+      {
+        "name": "Nguyễn Hữu Phương",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0909361296",
+        "phoneNumbers": [
+          "0909361296"
+        ]
+      },
+      {
+        "name": "Nguyễn Lê Hữu Bảo",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0979716009",
+        "phoneNumbers": [
+          "0979716009"
+        ]
+      }
+    ],
+    "sourcePage": 60
+  },
+  {
+    "id": 118,
+    "unit": "Phường Vĩnh Tân",
+    "formerUnit": "TP. Tân Uyên",
+    "contacts": [
+      {
+        "name": "Trần Văn Phương",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0909361296",
+        "phoneNumbers": [
+          "0909361296"
+        ]
+      },
+      {
+        "name": "Mai Thị Đạt",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0945800899",
+        "phoneNumbers": [
+          "0945800899"
+        ]
+      },
+      {
+        "name": "Nguyễn Tấn Lập",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0908505246",
+        "phoneNumbers": [
+          "0908505246"
+        ]
+      },
+      {
+        "name": "Thượng Công Điền",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0918545716",
+        "phoneNumbers": [
+          "0918545716"
+        ]
+      }
+    ],
+    "sourcePage": 60
+  },
+  {
+    "id": 119,
+    "unit": "Xã Phú Giáo",
+    "formerUnit": "Huyện Phú Giáo",
+    "contacts": [
+      {
+        "name": "Nguyễn Phi Hoàng",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0913860460",
+        "phoneNumbers": [
+          "0913860460"
+        ]
+      },
+      {
+        "name": "Trần Trung Tín",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0979304797",
+        "phoneNumbers": [
+          "0979304797"
+        ]
+      },
+      {
+        "name": "Vũ Hải Lý",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0917158243",
+        "phoneNumbers": [
+          "0917158243"
+        ]
+      },
+      {
+        "name": "Tô Cẩm Nhung",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0982100784",
+        "phoneNumbers": [
+          "0982100784"
+        ]
+      }
+    ],
+    "sourcePage": 61
+  },
+  {
+    "id": 120,
+    "unit": "Xã An Long",
+    "formerUnit": "Huyện Phú Giáo",
+    "contacts": [
+      {
+        "name": "Nguyễn Thị Kim Hương",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0972404113",
+        "phoneNumbers": [
+          "0972404113"
+        ]
+      },
+      {
+        "name": "Nguyễn Thanh Thảo",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0933318815",
+        "phoneNumbers": [
+          "0933318815"
+        ]
+      },
+      {
+        "name": "Văn Quang Chinh",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0939095979",
+        "phoneNumbers": [
+          "0939095979"
+        ]
+      },
+      {
+        "name": "Vũ Đức Thuân",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0986332227",
+        "phoneNumbers": [
+          "0986332227"
+        ]
+      }
+    ],
+    "sourcePage": 61
+  },
+  {
+    "id": 121,
+    "unit": "Xã Phước Hòa",
+    "formerUnit": "Huyện Phú Giáo",
+    "contacts": [
+      {
+        "name": "Tô Văn Đạt",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0913950090",
+        "phoneNumbers": [
+          "0913950090"
+        ]
+      },
+      {
+        "name": "Võ Châu Loan",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0989196308",
+        "phoneNumbers": [
+          "0989196308"
+        ]
+      },
+      {
+        "name": "Trần Hồng Dung",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0913175485",
+        "phoneNumbers": [
+          "0913175485"
+        ]
+      },
+      {
+        "name": "Lê Thanh Sang",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0936112123",
+        "phoneNumbers": [
+          "0936112123"
+        ]
+      }
+    ],
+    "sourcePage": 62
+  },
+  {
+    "id": 122,
+    "unit": "Xã Phước Thành",
+    "formerUnit": "Huyện Phú Giáo",
+    "contacts": [
+      {
+        "name": "Nguyễn Thị Xuân Mai",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0938333232",
+        "phoneNumbers": [
+          "0938333232"
+        ]
+      },
+      {
+        "name": "Võ Thanh Hoàng",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0973148288",
+        "phoneNumbers": [
+          "0973148288"
+        ]
+      },
+      {
+        "name": "Nguyễn Thanh Thông",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0973148288",
+        "phoneNumbers": [
+          "0973148288"
+        ]
+      },
+      {
+        "name": "Phạm Minh Tâm",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0919074222",
+        "phoneNumbers": [
+          "0919074222"
+        ]
+      }
+    ],
+    "sourcePage": 62
+  },
+  {
+    "id": 123,
+    "unit": "Phường Dĩ An",
+    "formerUnit": "TP. Dĩ An",
+    "contacts": [
+      {
+        "name": "Võ Văn Hồng",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0913950060",
+        "phoneNumbers": [
+          "0913950060"
+        ]
+      },
+      {
+        "name": "Hồ Hồng Minh",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "",
+        "phoneNumbers": []
+      },
+      {
+        "name": "Trần Thị Thanh Thủy",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0909772405",
+        "phoneNumbers": [
+          "0909772405"
+        ]
+      },
+      {
+        "name": "Nguyễn Hồng Lĩnh",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0933530742",
+        "phoneNumbers": [
+          "0933530742"
+        ]
+      }
+    ],
+    "sourcePage": 63
+  },
+  {
+    "id": 124,
+    "unit": "Phường Đông Hòa",
+    "formerUnit": "TP. Dĩ An",
+    "contacts": [
+      {
+        "name": "Nguyễn Công Danh",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0933685796",
+        "phoneNumbers": [
+          "0933685796"
+        ]
+      },
+      {
+        "name": "Lê Anh Tuấn",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "",
+        "phoneNumbers": []
+      },
+      {
+        "name": "Võ Trọng Tài",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0903883078",
+        "phoneNumbers": [
+          "0903883078"
+        ]
+      },
+      {
+        "name": "Nguyễn Hồng Gấm",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0903197929",
+        "phoneNumbers": [
+          "0903197929"
+        ]
+      }
+    ],
+    "sourcePage": 63
+  },
+  {
+    "id": 125,
+    "unit": "Phường Tân Đông Hiệp",
+    "formerUnit": "TP. Dĩ An",
+    "contacts": [
+      {
+        "name": "Lê Thị Mai Thi",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0914851885",
+        "phoneNumbers": [
+          "0914851885"
+        ]
+      },
+      {
+        "name": "Đặng Thanh Thủy",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0936123163",
+        "phoneNumbers": [
+          "0936123163"
+        ]
+      },
+      {
+        "name": "Nguyễn Thanh Huy",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0913612237",
+        "phoneNumbers": [
+          "0913612237"
+        ]
+      },
+      {
+        "name": "Nguyễn Minh Trung",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0933171769",
+        "phoneNumbers": [
+          "0933171769"
+        ]
+      }
+    ],
+    "sourcePage": 64
+  },
+  {
+    "id": 126,
+    "unit": "Phường Lái Thiêu",
+    "formerUnit": "TP. Thuận An",
+    "contacts": [
+      {
+        "name": "Nguyễn Thanh Tâm",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0913644919",
+        "phoneNumbers": [
+          "0913644919"
+        ]
+      },
+      {
+        "name": "Ong Thụy Hoàng Mai",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0909801789",
+        "phoneNumbers": [
+          "0909801789"
+        ]
+      },
+      {
+        "name": "Phạm Phú Nam",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0918339335",
+        "phoneNumbers": [
+          "0918339335"
+        ]
+      },
+      {
+        "name": "Trần Thị Ngọc Anh",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0902845040",
+        "phoneNumbers": [
+          "0902845040"
+        ]
+      }
+    ],
+    "sourcePage": 64
+  },
+  {
+    "id": 127,
+    "unit": "Phường Thuận An",
+    "formerUnit": "TP. Thuận An",
+    "contacts": [
+      {
+        "name": "Trần Thị Diễm Trinh",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0359165799",
+        "phoneNumbers": [
+          "0359165799"
+        ]
+      },
+      {
+        "name": "Phan Thái Sơn",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0989009905",
+        "phoneNumbers": [
+          "0989009905"
+        ]
+      },
+      {
+        "name": "Nguyễn Thanh Sơn",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0983057043",
+        "phoneNumbers": [
+          "0983057043"
+        ]
+      },
+      {
+        "name": "Đỗ Huỳnh Tú Anh",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0906762362",
+        "phoneNumbers": [
+          "0906762362"
+        ]
+      }
+    ],
+    "sourcePage": 65
+  },
+  {
+    "id": 128,
+    "unit": "Phường Thuận Giao",
+    "formerUnit": "TP. Thuận An",
+    "contacts": [
+      {
+        "name": "Nguyễn Thành Úy",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0903714797",
+        "phoneNumbers": [
+          "0903714797"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Kim Phượng",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0908228176",
+        "phoneNumbers": [
+          "0908228176"
+        ]
+      },
+      {
+        "name": "Võ Huỳnh Ngọc Thủy",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0937909636",
+        "phoneNumbers": [
+          "0937909636"
+        ]
+      },
+      {
+        "name": "Nguyễn Thụy Minh Chi",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0909025758",
+        "phoneNumbers": [
+          "0909025758"
+        ]
+      }
+    ],
+    "sourcePage": 65
+  },
+  {
+    "id": 129,
+    "unit": "Phường Bình Hòa",
+    "formerUnit": "TP. Thuận An",
+    "contacts": [
+      {
+        "name": "Huỳnh Văn Sơn",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0945222999",
+        "phoneNumbers": [
+          "0945222999"
+        ]
+      },
+      {
+        "name": "Dương Thúy Huyền",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0918606008",
+        "phoneNumbers": [
+          "0918606008"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Ngọc Châu",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0909472003",
+        "phoneNumbers": [
+          "0909472003"
+        ]
+      },
+      {
+        "name": "Lương Minh Tân",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0918090315",
+        "phoneNumbers": [
+          "0918090315"
+        ]
+      }
+    ],
+    "sourcePage": 66
+  },
+  {
+    "id": 130,
+    "unit": "Phường An Phú",
+    "formerUnit": "TP. Thuận An",
+    "contacts": [
+      {
+        "name": "Nguyễn Thị Hiền",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0909476324",
+        "phoneNumbers": [
+          "0909476324"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Hồng Vân",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0932603666",
+        "phoneNumbers": [
+          "0932603666"
+        ]
+      },
+      {
+        "name": "Nguyễn Hữu Châu",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0983930932",
+        "phoneNumbers": [
+          "0983930932"
+        ]
+      },
+      {
+        "name": "Nguyễn Thanh Hội",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0974816262",
+        "phoneNumbers": [
+          "0974816262"
+        ]
+      }
+    ],
+    "sourcePage": 66
+  },
+  {
+    "id": 131,
+    "unit": "Phường Phú Lợi",
+    "formerUnit": "TP. Thủ Dầu Một",
+    "contacts": [
+      {
+        "name": "Lê Thanh Long",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0913627768",
+        "phoneNumbers": [
+          "0913627768"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Tuyết Nga",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0985710137",
+        "phoneNumbers": [
+          "0985710137"
+        ]
+      },
+      {
+        "name": "Phan Công Khanh",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0919101781",
+        "phoneNumbers": [
+          "0919101781"
+        ]
+      },
+      {
+        "name": "Hoàng Thị Hồng Thắm",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0983637370",
+        "phoneNumbers": [
+          "0983637370"
+        ]
+      }
+    ],
+    "sourcePage": 67
+  },
+  {
+    "id": 132,
+    "unit": "Phường Chánh Hiệp",
+    "formerUnit": "TP. Thủ Dầu Một",
+    "contacts": [
+      {
+        "name": "Nguyễn Hữu Thạnh",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0932100111",
+        "phoneNumbers": [
+          "0932100111"
+        ]
+      },
+      {
+        "name": "Trương Thị Thu Hiền",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "",
+        "phoneNumbers": []
+      },
+      {
+        "name": "Phạm Minh Thiện",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0983724484",
+        "phoneNumbers": [
+          "0983724484"
+        ]
+      },
+      {
+        "name": "Lộc Trung Nghĩa",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0933285258",
+        "phoneNumbers": [
+          "0933285258"
+        ]
+      }
+    ],
+    "sourcePage": 67
+  },
+  {
+    "id": 133,
+    "unit": "Phường Bình Dương",
+    "formerUnit": "TP. Thủ Dầu Một",
+    "contacts": [
+      {
+        "name": "Nguyễn Văn Đông",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0817822888",
+        "phoneNumbers": [
+          "0817822888"
+        ]
+      },
+      {
+        "name": "Nguyễn Văn Sum",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0937470400",
+        "phoneNumbers": [
+          "0937470400"
+        ]
+      },
+      {
+        "name": "Võ Chí Thành",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0918078081",
+        "phoneNumbers": [
+          "0918078081"
+        ]
+      },
+      {
+        "name": "Đặng Thị Phương Doang",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0853467370",
+        "phoneNumbers": [
+          "0853467370"
+        ]
+      }
+    ],
+    "sourcePage": 68
+  },
+  {
+    "id": 134,
+    "unit": "Phường Thủ Dầu Một",
+    "formerUnit": "TP. Thủ Dầu Một",
+    "contacts": [
+      {
+        "name": "Nguyễn Thu Cúc",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0944547979",
+        "phoneNumbers": [
+          "0944547979"
+        ]
+      },
+      {
+        "name": "Phạm Văn Nồng",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0913626743",
+        "phoneNumbers": [
+          "0913626743"
+        ]
+      },
+      {
+        "name": "Trần Phong Lưu",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0913860986",
+        "phoneNumbers": [
+          "0913860986"
+        ]
+      },
+      {
+        "name": "Lê Thị Minh Tâm",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0985371101",
+        "phoneNumbers": [
+          "0985371101"
+        ]
+      }
+    ],
+    "sourcePage": 68
+  },
+  {
+    "id": 135,
+    "unit": "Xã Dầu Tiếng",
+    "formerUnit": "Huyện Dầu Tiếng",
+    "contacts": [
+      {
+        "name": "Nguyễn Đình Khánh",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0939095979",
+        "phoneNumbers": [
+          "0939095979"
+        ]
+      },
+      {
+        "name": "Nguyễn Công Danh",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0913196152",
+        "phoneNumbers": [
+          "0913196152"
+        ]
+      },
+      {
+        "name": "Trần Khắc Quân",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0919251113",
+        "phoneNumbers": [
+          "0919251113"
+        ]
+      },
+      {
+        "name": "Trịnh Thị Ngoan",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0976089771",
+        "phoneNumbers": [
+          "0976089771"
+        ]
+      }
+    ],
+    "sourcePage": 69
+  },
+  {
+    "id": 136,
+    "unit": "Xã Thanh An",
+    "formerUnit": "Huyện Dầu Tiếng",
+    "contacts": [
+      {
+        "name": "Nguyễn Hữu Chí",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0989725726",
+        "phoneNumbers": [
+          "0989725726"
+        ]
+      },
+      {
+        "name": "Lê Thị Kim Sang",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0916646565",
+        "phoneNumbers": [
+          "0916646565"
+        ]
+      },
+      {
+        "name": "Nguyễn Hoài Bảo",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0983200449",
+        "phoneNumbers": [
+          "0983200449"
+        ]
+      },
+      {
+        "name": "Đặng Minh Phước",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0903788905",
+        "phoneNumbers": [
+          "0903788905"
+        ]
+      }
+    ],
+    "sourcePage": 69
+  },
+  {
+    "id": 137,
+    "unit": "Xã Long Hòa",
+    "formerUnit": "Huyện Dầu Tiếng",
+    "contacts": [
+      {
+        "name": "Nguyễn Thị Gương",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0939681918",
+        "phoneNumbers": [
+          "0939681918"
+        ]
+      },
+      {
+        "name": "Nguyễn Văn Bình",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0918530640",
+        "phoneNumbers": [
+          "0918530640"
+        ]
+      },
+      {
+        "name": "Lâm Tấn Đạt",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0985511505",
+        "phoneNumbers": [
+          "0985511505"
+        ]
+      },
+      {
+        "name": "Nguyễn Công Nhân",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0913688160",
+        "phoneNumbers": [
+          "0913688160"
+        ]
+      }
+    ],
+    "sourcePage": 70
+  },
+  {
+    "id": 138,
+    "unit": "Xã Minh Thạnh",
+    "formerUnit": "Huyện Dầu Tiếng",
+    "contacts": [
+      {
+        "name": "Nguyễn Thanh Tùng",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0913627111",
+        "phoneNumbers": [
+          "0913627111"
+        ]
+      },
+      {
+        "name": "Lê Văn Mười",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "",
+        "phoneNumbers": []
+      },
+      {
+        "name": "Nguyễn Hữu Thành",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0947903087",
+        "phoneNumbers": [
+          "0947903087"
+        ]
+      },
+      {
+        "name": "Hoàng Văn Tấn",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0942372212",
+        "phoneNumbers": [
+          "0942372212"
+        ]
+      }
+    ],
+    "sourcePage": 70
+  },
+  {
+    "id": 139,
+    "unit": "Xã Ngãi Giao",
+    "formerUnit": "Huyện Châu Đức",
+    "contacts": [
+      {
+        "name": "Nguyễn Đức Tân",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0915090909",
+        "phoneNumbers": [
+          "0915090909"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Thu Hằng",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0941125262",
+        "phoneNumbers": [
+          "0941125262"
+        ]
+      },
+      {
+        "name": "Nguyễn Minh Tú",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0984501615",
+        "phoneNumbers": [
+          "0984501615"
+        ]
+      },
+      {
+        "name": "Dương Thị Thảo",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0919804779",
+        "phoneNumbers": [
+          "0919804779"
+        ]
+      }
+    ],
+    "sourcePage": 71
+  },
+  {
+    "id": 140,
+    "unit": "Xã Kim Long",
+    "formerUnit": "Huyện Châu Đức",
+    "contacts": [
+      {
+        "name": "Hồng Như Vàng",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0977021280",
+        "phoneNumbers": [
+          "0977021280"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Tuyết Kha",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0908908424",
+        "phoneNumbers": [
+          "0908908424"
+        ]
+      },
+      {
+        "name": "Đỗ Chí Khởi",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0983961096",
+        "phoneNumbers": [
+          "0983961096"
+        ]
+      },
+      {
+        "name": "Lê Đức Tấn",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0986815515",
+        "phoneNumbers": [
+          "0986815515"
+        ]
+      }
+    ],
+    "sourcePage": 71
+  },
+  {
+    "id": 141,
+    "unit": "Xã Bình Giã",
+    "formerUnit": "Huyện Châu Đức",
+    "contacts": [
+      {
+        "name": "Nguyễn Thái Bình",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0908502848",
+        "phoneNumbers": [
+          "0908502848"
+        ]
+      },
+      {
+        "name": "Lê Binh",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0913759326",
+        "phoneNumbers": [
+          "0913759326"
+        ]
+      },
+      {
+        "name": "Nguyễn Thanh Thủy",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0983228336",
+        "phoneNumbers": [
+          "0983228336"
+        ]
+      },
+      {
+        "name": "Trần Văn Dũng",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0918345060",
+        "phoneNumbers": [
+          "0918345060"
+        ]
+      }
+    ],
+    "sourcePage": 72
+  },
+  {
+    "id": 142,
+    "unit": "Xã Nghĩa Thành",
+    "formerUnit": "Huyện Châu Đức",
+    "contacts": [
+      {
+        "name": "Phạm Văn Quyền",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0913620775",
+        "phoneNumbers": [
+          "0913620775"
+        ]
+      },
+      {
+        "name": "Nguyễn Hữu Trường",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0937743333",
+        "phoneNumbers": [
+          "0937743333"
+        ]
+      },
+      {
+        "name": "Nguyễn Tiến Trung",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0933575991",
+        "phoneNumbers": [
+          "0933575991"
+        ]
+      },
+      {
+        "name": "Nguyễn Tiến Tâm",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0776655999",
+        "phoneNumbers": [
+          "0776655999"
+        ]
+      }
+    ],
+    "sourcePage": 72
+  },
+  {
+    "id": 143,
+    "unit": "Xã Xuân Sơn",
+    "formerUnit": "Huyện Châu Đức",
+    "contacts": [
+      {
+        "name": "Nguyễn Việt Thanh",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0947600700",
+        "phoneNumbers": [
+          "0947600700"
+        ]
+      },
+      {
+        "name": "Trần Thanh Dũng",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0941866899",
+        "phoneNumbers": [
+          "0941866899"
+        ]
+      },
+      {
+        "name": "Ngô Văn Luận",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0913104647",
+        "phoneNumbers": [
+          "0913104647"
+        ]
+      },
+      {
+        "name": "Trần Đại Diện",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0983997223",
+        "phoneNumbers": [
+          "0983997223"
+        ]
+      }
+    ],
+    "sourcePage": 73
+  },
+  {
+    "id": 144,
+    "unit": "Xã Châu Đức",
+    "formerUnit": "Huyện Châu Đức",
+    "contacts": [
+      {
+        "name": "Lê Thanh Liêm",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0918498665",
+        "phoneNumbers": [
+          "0918498665"
+        ]
+      },
+      {
+        "name": "Nguyễn Trọng Tá",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0972383878",
+        "phoneNumbers": [
+          "0972383878"
+        ]
+      },
+      {
+        "name": "Phan Ngọc Tuấn",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0919753606",
+        "phoneNumbers": [
+          "0919753606"
+        ]
+      },
+      {
+        "name": "Lê Mạnh Tân",
+        "role": "Phó Trưởng Ban Xây Dựng Đảng",
+        "phone": "0918242925",
+        "phoneNumbers": [
+          "0918242925"
+        ]
+      }
+    ],
+    "sourcePage": 73
+  },
+  {
+    "id": 145,
+    "unit": "Đặc khu Côn Đảo",
+    "formerUnit": "Côn Đảo",
+    "contacts": [
+      {
+        "name": "Lê Anh Tú",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0916101214",
+        "phoneNumbers": [
+          "0916101214"
+        ]
+      },
+      {
+        "name": "Nguyễn Anh Nhựt",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0918433266",
+        "phoneNumbers": [
+          "0918433266"
+        ]
+      },
+      {
+        "name": "Phan Trọng Hiền",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0983156277",
+        "phoneNumbers": [
+          "0983156277"
+        ]
+      },
+      {
+        "name": "Phạm Hữu Trí",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0985889996",
+        "phoneNumbers": [
+          "0985889996"
+        ]
+      }
+    ],
+    "sourcePage": 74
+  },
+  {
+    "id": 146,
+    "unit": "Phường Bà Rịa",
+    "formerUnit": "TP Bà Rịa",
+    "contacts": [
+      {
+        "name": "Trần Tuấn Lĩnh",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0904600003",
+        "phoneNumbers": [
+          "0904600003"
+        ]
+      },
+      {
+        "name": "Phan Thanh Biên",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0918483983",
+        "phoneNumbers": [
+          "0918483983"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Kim Liên",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0984010068",
+        "phoneNumbers": [
+          "0984010068"
+        ]
+      },
+      {
+        "name": "Thái Minh Tuấn",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0825797879",
+        "phoneNumbers": [
+          "0825797879"
+        ]
+      }
+    ],
+    "sourcePage": 74
+  },
+  {
+    "id": 147,
+    "unit": "Phường Tam Long",
+    "formerUnit": "TP Bà Rịa",
+    "contacts": [
+      {
+        "name": "Nguyễn Minh Hoàng",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0932686181",
+        "phoneNumbers": [
+          "0932686181"
+        ]
+      },
+      {
+        "name": "Nguyễn Thành Nam",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0988640896",
+        "phoneNumbers": [
+          "0988640896"
+        ]
+      },
+      {
+        "name": "Lê Hữu Hiền",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0941383444",
+        "phoneNumbers": [
+          "0941383444"
+        ]
+      },
+      {
+        "name": "Võ Thanh Bình",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0937265797",
+        "phoneNumbers": [
+          "0937265797"
+        ]
+      }
+    ],
+    "sourcePage": 75
+  },
+  {
+    "id": 148,
+    "unit": "Phường Long Hương",
+    "formerUnit": "TP Bà Rịa",
+    "contacts": [
+      {
+        "name": "Trần Thanh Dũng",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0793333689",
+        "phoneNumbers": [
+          "0793333689"
+        ]
+      },
+      {
+        "name": "Lương Thị Kiều Trang",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0906392535",
+        "phoneNumbers": [
+          "0906392535"
+        ]
+      },
+      {
+        "name": "Đặng Huy Quang",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0846764676",
+        "phoneNumbers": [
+          "0846764676"
+        ]
+      },
+      {
+        "name": "Mã Thị Thu Thảo",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0933561239",
+        "phoneNumbers": [
+          "0933561239"
+        ]
+      }
+    ],
+    "sourcePage": 75
+  },
+  {
+    "id": 149,
+    "unit": "Phường Vũng Tàu",
+    "formerUnit": "TP Vũng Tàu",
+    "contacts": [
+      {
+        "name": "Nguyễn Tấn Bản",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0907030989",
+        "phoneNumbers": [
+          "0907030989"
+        ]
+      },
+      {
+        "name": "Lê Thị Thanh Bình",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0946211373",
+        "phoneNumbers": [
+          "0946211373"
+        ]
+      },
+      {
+        "name": "Bùi Văn Hy",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0907050539",
+        "phoneNumbers": [
+          "0907050539"
+        ]
+      },
+      {
+        "name": "Vũ Phương Hảo",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0987288357",
+        "phoneNumbers": [
+          "0987288357"
+        ]
+      }
+    ],
+    "sourcePage": 76
+  },
+  {
+    "id": 150,
+    "unit": "Phường Tam Thắng",
+    "formerUnit": "TP Vũng Tàu",
+    "contacts": [
+      {
+        "name": "Trần Thụy Cẩm Lệ",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0979660057",
+        "phoneNumbers": [
+          "0979660057"
+        ]
+      },
+      {
+        "name": "Nguyễn Chí Linh",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0908037248",
+        "phoneNumbers": [
+          "0908037248"
+        ]
+      },
+      {
+        "name": "Lê Xuân Tú",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0909334392",
+        "phoneNumbers": [
+          "0909334392"
+        ]
+      },
+      {
+        "name": "Đặng Quang Vinh",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0908457505",
+        "phoneNumbers": [
+          "0908457505"
+        ]
+      }
+    ],
+    "sourcePage": 76
+  },
+  {
+    "id": 151,
+    "unit": "Phường Rạch Dừa",
+    "formerUnit": "TP Vũng Tàu",
+    "contacts": [
+      {
+        "name": "Nguyễn Phúc Hoàng",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0901689989",
+        "phoneNumbers": [
+          "0901689989"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Ngọc Thủy",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0906833722",
+        "phoneNumbers": [
+          "0906833722"
+        ]
+      },
+      {
+        "name": "Trần Anh Tuấn",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0913793333",
+        "phoneNumbers": [
+          "0913793333"
+        ]
+      },
+      {
+        "name": "Cấn Thị Thu",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0983898945",
+        "phoneNumbers": [
+          "0983898945"
+        ]
+      }
+    ],
+    "sourcePage": 77
+  },
+  {
+    "id": 152,
+    "unit": "Phường Phước Thắng",
+    "formerUnit": "TP Vũng Tàu",
+    "contacts": [
+      {
+        "name": "Nguyễn Trường Giang",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0903911033",
+        "phoneNumbers": [
+          "0903911033"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Ánh Hồng",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0982969288",
+        "phoneNumbers": [
+          "0982969288"
+        ]
+      },
+      {
+        "name": "Nguyễn Việt Dũng",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0977812639",
+        "phoneNumbers": [
+          "0977812639"
+        ]
+      },
+      {
+        "name": "Trần Sỹ Nguyện",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0903995383",
+        "phoneNumbers": [
+          "0903995383"
+        ]
+      }
+    ],
+    "sourcePage": 77
+  },
+  {
+    "id": 153,
+    "unit": "Xã Long Sơn",
+    "formerUnit": "TP Vũng Tàu",
+    "contacts": [
+      {
+        "name": "Nguyễn Tấn Cường",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0909779919",
+        "phoneNumbers": [
+          "0909779919"
+        ]
+      },
+      {
+        "name": "Mai Ngọc Oanh",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0975150550",
+        "phoneNumbers": [
+          "0975150550"
+        ]
+      },
+      {
+        "name": "Nguyễn Trọng Thụy",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0835879379",
+        "phoneNumbers": [
+          "0835879379"
+        ]
+      },
+      {
+        "name": "Phạm Thị Mỹ Linh",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0918565198",
+        "phoneNumbers": [
+          "0918565198"
+        ]
+      }
+    ],
+    "sourcePage": 78
+  },
+  {
+    "id": 154,
+    "unit": "Phường Phú Mỹ",
+    "formerUnit": "TP Phú Mỹ",
+    "contacts": [
+      {
+        "name": "Bùi Chí Thành",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0913693407",
+        "phoneNumbers": [
+          "0913693407"
+        ]
+      },
+      {
+        "name": "Nguyễn Đoàn Tiết Phương",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0979283251",
+        "phoneNumbers": [
+          "0979283251"
+        ]
+      },
+      {
+        "name": "Phương Đặng Văn Hùng",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0908463468",
+        "phoneNumbers": [
+          "0908463468"
+        ]
+      },
+      {
+        "name": "Nguyễn Luân Vũ",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0938781789",
+        "phoneNumbers": [
+          "0938781789"
+        ]
+      }
+    ],
+    "sourcePage": 78
+  },
+  {
+    "id": 155,
+    "unit": "Phường Tân Phước",
+    "formerUnit": "TP Phú Mỹ",
+    "contacts": [
+      {
+        "name": "Dương Ngọc Châu",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0933377992",
+        "phoneNumbers": [
+          "0933377992"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Ngọc Phượng",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0938267878",
+        "phoneNumbers": [
+          "0938267878"
+        ]
+      },
+      {
+        "name": "Phượng Huỳnh Trung Sơn",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0919400114",
+        "phoneNumbers": [
+          "0919400114"
+        ]
+      },
+      {
+        "name": "Ngô Thanh Thảo",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0907189777",
+        "phoneNumbers": [
+          "0907189777"
+        ]
+      }
+    ],
+    "sourcePage": 79
+  },
+  {
+    "id": 156,
+    "unit": "Phường Tân Hải",
+    "formerUnit": "TP Phú Mỹ",
+    "contacts": [
+      {
+        "name": "Trịnh Hàng",
+        "role": "Đảng Bí thư - CT HĐND",
+        "phone": "0913934393",
+        "phoneNumbers": [
+          "0913934393"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Giáng Hương",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0901250979",
+        "phoneNumbers": [
+          "0901250979"
+        ]
+      },
+      {
+        "name": "Hương Huỳnh Hữu Nghĩa",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0799913135",
+        "phoneNumbers": [
+          "0799913135"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Hồng Liên",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0908536095",
+        "phoneNumbers": [
+          "0908536095"
+        ]
+      }
+    ],
+    "sourcePage": 79
+  },
+  {
+    "id": 157,
+    "unit": "Phường Tân Thành",
+    "formerUnit": "TP Phú Mỹ",
+    "contacts": [
+      {
+        "name": "Trần Quốc Khánh",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0909717647",
+        "phoneNumbers": [
+          "0909717647"
+        ]
+      },
+      {
+        "name": "Nguyễn Lý Thủy Tiên",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0909378719",
+        "phoneNumbers": [
+          "0909378719"
+        ]
+      },
+      {
+        "name": "Nguyễn Ngọc Ân",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0908417020",
+        "phoneNumbers": [
+          "0908417020"
+        ]
+      },
+      {
+        "name": "Trần Thị Kim Loan",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0907499746",
+        "phoneNumbers": [
+          "0907499746"
+        ]
+      }
+    ],
+    "sourcePage": 80
+  },
+  {
+    "id": 158,
+    "unit": "Xã Châu Pha",
+    "formerUnit": "TP Phú Mỹ",
+    "contacts": [
+      {
+        "name": "Đỗ Hữu Hiền",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0919051555",
+        "phoneNumbers": [
+          "0919051555"
+        ]
+      },
+      {
+        "name": "Thôi Đại Việt",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0987343121",
+        "phoneNumbers": [
+          "0987343121"
+        ]
+      },
+      {
+        "name": "Phan Minh Hợp",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0968578679",
+        "phoneNumbers": [
+          "0968578679"
+        ]
+      },
+      {
+        "name": "Nguyễn Phước Lộc",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0974820876",
+        "phoneNumbers": [
+          "0974820876"
+        ]
+      }
+    ],
+    "sourcePage": 80
+  },
+  {
+    "id": 159,
+    "unit": "Xã Hồ Tràm",
+    "formerUnit": "Huyện Xuyên Mộc",
+    "contacts": [
+      {
+        "name": "Phan Khắc Duy",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0919085767",
+        "phoneNumbers": [
+          "0919085767"
+        ]
+      },
+      {
+        "name": "Nguyễn Hữu Lộc",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0987107678",
+        "phoneNumbers": [
+          "0987107678"
+        ]
+      },
+      {
+        "name": "Huỳnh Phi Khánh",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0918509160",
+        "phoneNumbers": [
+          "0918509160"
+        ]
+      },
+      {
+        "name": "Ngô Minh Dũng",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0914000077",
+        "phoneNumbers": [
+          "0914000077"
+        ]
+      }
+    ],
+    "sourcePage": 81
+  },
+  {
+    "id": 160,
+    "unit": "Xã Xuyên Mộc",
+    "formerUnit": "Huyện Xuyên Mộc",
+    "contacts": [
+      {
+        "name": "Võ Thành Châu",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0949989828",
+        "phoneNumbers": [
+          "0949989828"
+        ]
+      },
+      {
+        "name": "Đinh Văn Trãi",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0918927729",
+        "phoneNumbers": [
+          "0918927729"
+        ]
+      },
+      {
+        "name": "Chu Thị Thanh Phong",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0989175696",
+        "phoneNumbers": [
+          "0989175696"
+        ]
+      },
+      {
+        "name": "Dương Thị Linh Phi",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0974328876",
+        "phoneNumbers": [
+          "0974328876"
+        ]
+      }
+    ],
+    "sourcePage": 81
+  },
+  {
+    "id": 161,
+    "unit": "Xã Bình Châu",
+    "formerUnit": "Huyện Xuyên Mộc",
+    "contacts": [
+      {
+        "name": "Nguyễn Quốc Khanh",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0913842290",
+        "phoneNumbers": [
+          "0913842290"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Bình Minh",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0985022655",
+        "phoneNumbers": [
+          "0985022655"
+        ]
+      },
+      {
+        "name": "Nguyễn Hòa Hiệp",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0913683996",
+        "phoneNumbers": [
+          "0913683996"
+        ]
+      },
+      {
+        "name": "Nguyễn Minh Hiệp",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0933757648",
+        "phoneNumbers": [
+          "0933757648"
+        ]
+      }
+    ],
+    "sourcePage": 82
+  },
+  {
+    "id": 162,
+    "unit": "Xã Hòa Hội",
+    "formerUnit": "Huyện Xuyên Mộc",
+    "contacts": [
+      {
+        "name": "Đinh Thị Trúc My",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0983948767",
+        "phoneNumbers": [
+          "0983948767"
+        ]
+      },
+      {
+        "name": "Ngô Văn Chính",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0979793399",
+        "phoneNumbers": [
+          "0979793399"
+        ]
+      },
+      {
+        "name": "Huỳnh Tiến Dũng",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0889669979",
+        "phoneNumbers": [
+          "0889669979"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Ngọc Dung",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0988000474",
+        "phoneNumbers": [
+          "0988000474"
+        ]
+      }
+    ],
+    "sourcePage": 82
+  },
+  {
+    "id": 163,
+    "unit": "Xã Bàu Lâm",
+    "formerUnit": "Huyện Xuyên Mộc",
+    "contacts": [
+      {
+        "name": "Huỳnh Kim Sơn",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0913998700",
+        "phoneNumbers": [
+          "0913998700"
+        ]
+      },
+      {
+        "name": "Đinh Hồng Nhung",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0938282874",
+        "phoneNumbers": [
+          "0938282874"
+        ]
+      },
+      {
+        "name": "Trần Văn Dững",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0909883666",
+        "phoneNumbers": [
+          "0909883666"
+        ]
+      },
+      {
+        "name": "Nguyễn Thanh Bình",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0913178255",
+        "phoneNumbers": [
+          "0913178255"
+        ]
+      }
+    ],
+    "sourcePage": 83
+  },
+  {
+    "id": 164,
+    "unit": "Xã Hòa Hiệp",
+    "formerUnit": "Huyện Xuyên Mộc",
+    "contacts": [
+      {
+        "name": "Huỳnh Sơn Thái",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0982737382",
+        "phoneNumbers": [
+          "0982737382"
+        ]
+      },
+      {
+        "name": "Nguyễn Minh Triết",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0909280706",
+        "phoneNumbers": [
+          "0909280706"
+        ]
+      },
+      {
+        "name": "Nguyễn Kỳ Nhân",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0942789449",
+        "phoneNumbers": [
+          "0942789449"
+        ]
+      },
+      {
+        "name": "Huỳnh Thị Thanh Hồng",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0933577279",
+        "phoneNumbers": [
+          "0933577279"
+        ]
+      }
+    ],
+    "sourcePage": 83
+  },
+  {
+    "id": 165,
+    "unit": "Xã Đất Đỏ",
+    "formerUnit": "Huyện Long Đất",
+    "contacts": [
+      {
+        "name": "Đỗ Thị Hồng",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0983712320",
+        "phoneNumbers": [
+          "0983712320"
+        ]
+      },
+      {
+        "name": "Nguyễn Nhất Trường",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0988695139",
+        "phoneNumbers": [
+          "0988695139"
+        ]
+      },
+      {
+        "name": "Trần Kim Phúc",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0918498769",
+        "phoneNumbers": [
+          "0918498769"
+        ]
+      },
+      {
+        "name": "Lê Văn Phước",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0932047606",
+        "phoneNumbers": [
+          "0932047606"
+        ]
+      }
+    ],
+    "sourcePage": 84
+  },
+  {
+    "id": 166,
+    "unit": "Xã Long Điền",
+    "formerUnit": "Huyện Long Đất",
+    "contacts": [
+      {
+        "name": "Trần Thanh Hùng",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0937378237",
+        "phoneNumbers": [
+          "0937378237"
+        ]
+      },
+      {
+        "name": "Trương Thị Kim Phượng",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0913752737",
+        "phoneNumbers": [
+          "0913752737"
+        ]
+      },
+      {
+        "name": "Võ Minh Tuấn",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0918790002",
+        "phoneNumbers": [
+          "0918790002"
+        ]
+      },
+      {
+        "name": "Nguyễn Thị Thanh Xuân",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0899787866",
+        "phoneNumbers": [
+          "0899787866"
+        ]
+      }
+    ],
+    "sourcePage": 84
+  },
+  {
+    "id": 167,
+    "unit": "Xã Long Hải",
+    "formerUnit": "Huyện Long Đất",
+    "contacts": [
+      {
+        "name": "Huỳnh Sơn Tuấn",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0913616171",
+        "phoneNumbers": [
+          "0913616171"
+        ]
+      },
+      {
+        "name": "Lê Thị Ngọc Hạnh",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0906700716",
+        "phoneNumbers": [
+          "0906700716"
+        ]
+      },
+      {
+        "name": "Ngô Thanh Phúc",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0908200717",
+        "phoneNumbers": [
+          "0908200717"
+        ]
+      },
+      {
+        "name": "Nguyễn Xuân Tiến",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0908329964",
+        "phoneNumbers": [
+          "0908329964"
+        ]
+      }
+    ],
+    "sourcePage": 85
+  },
+  {
+    "id": 168,
+    "unit": "Xã Phước Hải",
+    "formerUnit": "Huyện Long Đất",
+    "contacts": [
+      {
+        "name": "Võ Tài Quốc",
+        "role": "Bí thư - CT HĐND",
+        "phone": "0906703979",
+        "phoneNumbers": [
+          "0906703979"
+        ]
+      },
+      {
+        "name": "Nguyễn Minh Phong",
+        "role": "Phó Bí thư Thường trực",
+        "phone": "0766275285",
+        "phoneNumbers": [
+          "0766275285"
+        ]
+      },
+      {
+        "name": "Phạm Thị Tuyết Trinh",
+        "role": "Phó Bí thư - CT UBND",
+        "phone": "0856785060",
+        "phoneNumbers": [
+          "0856785060"
+        ]
+      },
+      {
+        "name": "Tạ Ngọc Ẩn",
+        "role": "Trưởng Ban Xây Dựng Đảng",
+        "phone": "0938396274",
+        "phoneNumbers": [
+          "0938396274"
+        ]
+      }
+    ],
+    "sourcePage": 85
+  }
+]

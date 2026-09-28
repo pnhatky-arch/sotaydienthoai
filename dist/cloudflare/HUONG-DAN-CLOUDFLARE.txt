@@ -1,0 +1,18 @@
+HUONG DAN TAI LEN CLOUDFLARE PAGES
+
+1. Dang nhap Cloudflare Dashboard.
+2. Mo Workers & Pages.
+3. Chon Create application > Get started > Drag and drop your files.
+4. Dat ten du an, vi du: so-tay-dien-thoai.
+5. Keo file so-tay-dien-thoai-cloudflare.zip vao khu vuc tai len.
+6. Chon Deploy site.
+
+BAO MAT QUAN TRONG
+
+Danh ba nay la tai lieu luu hanh noi bo. Sau khi trien khai, URL pages.dev co the
+duoc truy cap cong khai neu khong co lop bao ve. Hay bat Cloudflare Zero Trust
+Access cho ten mien cua ung dung va chi cho phep tai khoan/co quan duoc uy quyen.
+
+File _headers da duoc them de chan lap trang, han che quyen trinh duyet, ngan cong
+cu tim kiem lap chi muc va khong cache tep du lieu danh ba. Cac header nay khong
+thay the cho dang nhap Cloudflare Access.
