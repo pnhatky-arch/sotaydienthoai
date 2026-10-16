@@ -5,6 +5,9 @@
   "scripts": {
     "start": "python3 -m http.server 4180 --bind 127.0.0.1",
     "check": "node scripts/check.mjs",
-    "build:cloudflare": "node scripts/build-cloudflare.mjs"
-  }
+    "build": "node scripts/build-cloudflare.mjs",
+    "build:cloudflare": "node scripts/build-cloudflare.mjs",
+    "deploy": "npm run build && wrangler deploy"
+  },
+  "devDependencies": { "wrangler": "^4.151.1" }
 }
